@@ -11,11 +11,28 @@
             "id": "6d7fee2bd6f9265a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "algorithms/retry-list/retry-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b0071790da4f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md"
+              }
             }
           },
           {
@@ -147,8 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4746dfc17bc1bb82",
+  "active": "63b0071790da4f7b",
   "lastOpenFiles": [
+    "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
+    "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+    "algorithms/Problems/hash-table/Isomorphic strings/Help.md",
+    "algorithms/Problems/hash-table/Isomorphic strings",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/hash-table",
     "algorithms/Problems",

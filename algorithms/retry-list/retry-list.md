@@ -1,3 +1,4 @@
 Hash-tables:
-- [ ] [[Help]]
+- [ ] [ ][[Isomorphic strings solution]]
+- [ ] [[Top K frequent elements Solution]]
 - [ ] 

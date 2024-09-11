@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d7fee2bd6f9265a",
+  "active": "eb4c6acaa41dabb3",
   "lastOpenFiles": [
     "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",

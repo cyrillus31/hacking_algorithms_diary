@@ -39,7 +39,7 @@ func topKFrequent(nums []int, k int) []int {
 
     // get the result
     result := make([]int, 0, k)
-    for i := len(nums); i > 0; i-- {
+    for i := len(fList) - 1; i >= 0; i-- {
         elems := fList[i]
         if len(elems) != 0 {
             result = append(result, elems...)

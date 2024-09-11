@@ -6,12 +6,17 @@
 >[!Note] Time complexity
 > O(n + n + n + n + n) = O(n)
 > 1.  Walk over `n` elements to create a map
-> 2. Create a list of length `n`
-> 3. 
+> 2. Create a frequency list of length `n` max
+> 3. Insert into that list not more than `n` elements
+> 4.  Walk over frequency list of `n` elements
+> 5. Extract maximum `n` elements out of that frequency list
+
 
 
 >[!Note] Space complexity
-> O() = O(n)
+> O(n) = O(n)
+> 1. Create a map that stores `n` key-value pairs
+> 2. 
 
 ```go
 func topKFrequent(nums []int, k int) []int {

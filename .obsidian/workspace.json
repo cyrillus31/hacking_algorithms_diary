@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md"
+                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "63b0071790da4f7b",
   "lastOpenFiles": [
-    "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
     "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+    "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
     "algorithms/Problems/hash-table/Isomorphic strings/Help.md",
     "algorithms/Problems/hash-table/Isomorphic strings",
     "algorithms/retry-list/retry-list.md",

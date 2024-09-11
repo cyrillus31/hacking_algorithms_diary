@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "63b0071790da4f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/hash-table/Isomorphic strings/My fails.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -168,10 +155,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b0071790da4f7b",
+  "active": "6d7fee2bd6f9265a",
   "lastOpenFiles": [
-    "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
+    "algorithms/Problems/hash-table/Top_K_frequent_elements/My_Solution.md",
     "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
+    "algorithms/Problems/hash-table/Isomorphic_strings/My fails.md",
+    "algorithms/Problems/hash-table/Isomorphic_strings/My Solution.md",
+    "algorithms/Problems/hash-table/Isomorphic_strings/Help.md",
+    "algorithms/Problems/hash-table/Isomorphic_strings",
+    "algorithms/Problems/hash-table/Top_K_frequent_elements",
+    "algorithms/Problems/graphs",
+    "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
     "algorithms/Problems/hash-table/Isomorphic strings/Help.md",
     "algorithms/Problems/hash-table/Isomorphic strings",
     "algorithms/retry-list/retry-list.md",

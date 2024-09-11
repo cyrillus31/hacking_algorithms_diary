@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "6af213916b42c355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4c6acaa41dabb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,10 +175,10 @@
   },
   "active": "6d7fee2bd6f9265a",
   "lastOpenFiles": [
-    "algorithms/Problems/hash-table/Top_K_frequent_elements/Fails.md",
-    "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
-    "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+    "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "algorithms/Problems/hash-table/Top_K_frequent_elements/Fails.md",
+    "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
     "algorithms/Problems/hash-table/Isomorphic_strings/My fails.md",
     "algorithms/Problems/hash-table/Isomorphic_strings/Help.md",

@@ -30,7 +30,7 @@ At i = 2: 1, 2, and 3 are common in A and B, so C[2] = 3.
 
 ## My solution idea
 Walk over both arrays and each time count how many times we've encountered a certain number. 
-If both 
+If both numbers (from both arrays) are equal we should add 1 to the current result at the current array index. If we've encounted each number (number per array) two times already, then add +1 for each number like that.
 
 
 >[!Note] Time complexity

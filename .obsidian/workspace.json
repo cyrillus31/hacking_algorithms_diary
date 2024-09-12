@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find common prefix array Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find common prefix array Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find common prefix array Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md"
+                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find common prefix array Solution.md"
               }
             }
           },
@@ -175,8 +175,10 @@
   },
   "active": "eb4c6acaa41dabb3",
   "lastOpenFiles": [
-    "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find common prefix array Solution.md",
+    "algorithms/Problems/hash-table/Find prefix common  array of two arrays",
+    "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Fails.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",

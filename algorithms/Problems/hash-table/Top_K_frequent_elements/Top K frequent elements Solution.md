@@ -3,7 +3,7 @@
 #solution
 #frequency-list
 
->[!Note] Time complexity
+>- [ ] [!Note] Time complexity
 > O(n + n + n + n + n) = O(n)
 > 1.  Walk over `n` elements to create a map
 > 2. Create a frequency list of length `n` max
@@ -16,7 +16,7 @@
 >[!Note] Space complexity
 > O(n) = O(n)
 > 1. Create a map that stores `n` key-value pairs
-> 2. 
+> 2.  ... TODO
 
 ```go
 func topKFrequent(nums []int, k int) []int {

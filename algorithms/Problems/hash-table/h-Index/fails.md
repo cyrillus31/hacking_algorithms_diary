@@ -46,6 +46,11 @@ func hIndex(citations []int) int {
     }
     // amount    [0, 0, 3, 0, 0, 2, 5]
     // citations  0  1  2  3  4  5  6
+
+    // citat     [3, 0, 6, 1, 5]
+    // amount    [0, 1, 0, 1, 0, 2]
+    // citations  0  1  2  3  4  5
+
     for i := len(citations); i < 0; i-- {
         cit := i
         amount := hList[cit]

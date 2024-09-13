@@ -62,4 +62,4 @@ func hIndex(citations []int) int {
     return result
 }
 ```
-Ошибка: result всегда 0. Это значит, что cit и 
+Ошибка: result всегда 0. Это значит, что если cit меньше amount, то cit меньше result. Либо это значит, что если cit больше либо равно amount, то amount меньше result. Но разве это всегда так?

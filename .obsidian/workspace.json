@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "94cd7f6ed7f41fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильтр Блюма.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ddf402c9e9ebf25",
             "type": "leaf",
             "state": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avito.md",
+                "file": "Фильтр Блюма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avito.md",
+                "file": "Фильтр Блюма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avito.md"
+                "file": "Фильтр Блюма.md"
               }
             }
           },
@@ -170,9 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ddf402c9e9ebf25",
+  "active": "94cd7f6ed7f41fe4",
   "lastOpenFiles": [
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "Фильтр Блюма.md",
     "Avito.md",
     "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
     "algorithms/Problems/hash-table/h-Index/fails.md",

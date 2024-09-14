@@ -18,26 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6af213916b42c355",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "eb4c6acaa41dabb3",
+            "id": "0ddf402c9e9ebf25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
+                "file": "Avito.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
+                "file": "Avito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
+                "file": "Avito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md"
+                "file": "Avito.md"
               }
             }
           },
@@ -156,11 +152,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,14 +170,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb4c6acaa41dabb3",
+  "active": "0ddf402c9e9ebf25",
   "lastOpenFiles": [
+    "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "Avito.md",
+    "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
     "algorithms/Problems/hash-table/h-Index/fails.md",
     "algorithms/Problems/hash-table/h-Index",
     "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Fails.md",
     "algorithms/retry-list/retry-list.md",
-    "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
-    "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
     "algorithms/Problems/hash-table/Find prefix common  array of two arrays",
     "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Fails.md",

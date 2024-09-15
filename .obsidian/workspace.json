@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фильтр Блюма.md",
+                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 403.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фильтр Блюма.md",
+                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Фильтр Блюма.md",
+                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Фильтр Блюма.md"
+                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md"
               }
             }
           },
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc411ccd0289b297",
+  "active": "94cd7f6ed7f41fe4",
   "lastOpenFiles": [
-    "Pasted image 20240914135305.png",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "algorithms/Problems/hash-table/ASSIGNMENT.md",
+    "Pasted image 20240914135305.png",
     "Фильтр Блюма.md",
     "Avito.md",
     "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",

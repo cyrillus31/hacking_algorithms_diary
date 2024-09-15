@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94cd7f6ed7f41fe4",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
     "Pasted image 20240914135305.png",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",

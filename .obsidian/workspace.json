@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md",
+                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md",
+                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md",
+                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/hash-table/ASSIGNMENT.md"
+                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md"
               }
             }
           },
@@ -183,31 +183,33 @@
   },
   "active": "94cd7f6ed7f41fe4",
   "lastOpenFiles": [
-    "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
     "algorithms/Problems/hash-table/ASSIGNMENT.md",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/embed.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/ZaLC_RrSfIOOYyAMtLbx3GGZpoCF9GU9dQmjrWT_kUE.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/remote.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/ad_status.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-player.css",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender(1).js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-embed-player.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/base.js",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/tag.js",
+    "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
     "Pasted image 20240914135305.png",
     "Фильтр Блюма.md",
     "Avito.md",
     "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
     "algorithms/Problems/hash-table/h-Index/fails.md",
-    "algorithms/Problems/hash-table/h-Index",
     "algorithms/Problems/hash-table/Find prefix common  array of two arrays/Fails.md",
     "algorithms/retry-list/retry-list.md",
-    "algorithms/Problems/hash-table/Find prefix common  array of two arrays",
     "algorithms/Problems/hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Fails.md",
     "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
     "algorithms/Problems/hash-table/Isomorphic_strings/My fails.md",
     "algorithms/Problems/hash-table/Isomorphic_strings/Help.md",
-    "algorithms/Problems/hash-table/Isomorphic_strings",
-    "algorithms/Problems/hash-table/Top_K_frequent_elements",
-    "algorithms/Problems/graphs",
     "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
-    "algorithms/Problems/hash-table/Isomorphic strings/Help.md",
-    "algorithms/Problems/hash-table/Isomorphic strings",
-    "algorithms/Problems/hash-table",
-    "algorithms/Problems",
-    "algorithms/retry-list",
-    "algorithms"
+    "algorithms/Problems/hash-table/Isomorphic strings/Help.md"
   ]
 }

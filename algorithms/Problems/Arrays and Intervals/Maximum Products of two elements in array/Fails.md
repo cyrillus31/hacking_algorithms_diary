@@ -8,7 +8,7 @@ func maxProduct(nums []int) int {
                 min = max
             }
             max = num
-        } else if num < max && num > min {
+        } else if num < max && num > min {  # здесь должно быть num <= max
             min = num
         }
     }

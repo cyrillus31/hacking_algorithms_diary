@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94cd7f6ed7f41fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ddf402c9e9ebf25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
+                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
+                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md"
+                "file": "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md"
               }
             }
           },
@@ -181,10 +156,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94cd7f6ed7f41fe4",
+  "active": "6d7fee2bd6f9265a",
   "lastOpenFiles": [
-    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array",
     "algorithms/Problems/Arrays and Intervals",

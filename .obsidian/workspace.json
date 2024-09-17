@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
-                "mode": "preview",
+                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md"
+                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md"
               }
             }
           },
@@ -183,8 +183,12 @@
   },
   "active": "94cd7f6ed7f41fe4",
   "lastOpenFiles": [
-    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array",
+    "algorithms/Problems/Arrays and Intervals",
+    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "algorithms/Problems/hash-table/ASSIGNMENT.md",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender.js",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/embed.js",
@@ -194,8 +198,6 @@
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-player.css",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender(1).js",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-embed-player.js",
-    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/base.js",
-    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/tag.js",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
     "Pasted image 20240914135305.png",
     "Фильтр Блюма.md",

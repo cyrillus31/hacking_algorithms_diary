@@ -35,8 +35,9 @@ Because we only store two elements at a time.
 ## Solution Idea
 To solve this we will need to find two biggest elements. To do this we will have to walk over all of the elements storing the biggest element and the second biggest. 
 1) If a new element is bigger than the biggest - put it as a biggest.
-	1) ATTENTION: but put the one that was the biggest in place of the second biggest!
-2) If a new element is smaller than the biggest check if it is bigger than the second biggest.
+	-  ATTENTION: but put the one that was the biggest in place of the second biggest!
+2) If a new element is smaller than the biggest OR EQUAL TO THE BIGGEST check if it is bigger than the second biggest and swap if bigger.
+	-  ATTENTION: 
 
 ## My solution
 ```go
@@ -57,6 +58,21 @@ func maxProduct(nums []int) int {
 }
 ```
 
+```go
+func maxProduct(nums []int) int {
+    min := 0
+    max := 0
+    for _, num := range nums {
+        if num > max {
+            min = max
+            max = num
+        } else if num <= max && num > min {
+            min = num
+        }
+    }
+    return (min-1)*(max-1)
+}
+```
 
 
 ## Max's solution

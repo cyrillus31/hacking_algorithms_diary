@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4746dfc17bc1bb82",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,18 +105,6 @@
             }
           },
           {
-            "id": "a1f57238bb0b59b3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "116e9ba48dc9ee61",
             "type": "leaf",
             "state": {
@@ -130,11 +126,15 @@
             }
           },
           {
-            "id": "4746dfc17bc1bb82",
+            "id": "a1f57238bb0b59b3",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 408.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d7fee2bd6f9265a",
+  "active": "a1f57238bb0b59b3",
   "lastOpenFiles": [
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",

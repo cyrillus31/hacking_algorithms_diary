@@ -1,9 +1,11 @@
+
 *Time: O(n)*
 Because we walk over all elements.
 
 *Space: O(1)*
 Because we only store two elements at a time.
 
+## Solution
 ## My solution
 ```go
 func maxProduct(nums []int) int {

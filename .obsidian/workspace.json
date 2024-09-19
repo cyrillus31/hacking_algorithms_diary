@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md"
+                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,13 +157,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1f57238bb0b59b3",
+  "active": "4746dfc17bc1bb82",
   "lastOpenFiles": [
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+    "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Fails.md",
-    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array",
     "algorithms/Problems/hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",

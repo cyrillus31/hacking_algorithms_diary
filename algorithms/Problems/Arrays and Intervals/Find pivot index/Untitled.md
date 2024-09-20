@@ -45,15 +45,14 @@ Prefix array. Simple.
 
 ## Time Complexity
 ___
-O(n + const) - where n is 
-Because 
+O(n + n +  C) = O(n)
+
+Because we walk over the array to create a prefix array and walk over once more to check for every pivot.
 
 ## Time Complexity
 ___
-O(?) - where 
-Because 
-
-
+O(n)
+Because  we store the whole prefix array.
 ## Code:
 ___
 ```go

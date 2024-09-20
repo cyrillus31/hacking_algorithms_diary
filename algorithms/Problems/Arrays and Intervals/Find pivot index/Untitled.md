@@ -41,13 +41,11 @@ ___
 > -1000 <= nums[i] <= 1000
 ## Solution Idea
 ___
-
-
-
+Prefix array. Simple.
 
 ## Time Complexity
 ___
-O(?) - where 
+O(n + const) - where n is 
 Because 
 
 ## Time Complexity

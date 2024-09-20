@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Find pivot index/Untitled.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Find pivot index/Untitled.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Find pivot index/Untitled.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Find pivot index/Untitled.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +158,11 @@
   },
   "active": "6d7fee2bd6f9265a",
   "lastOpenFiles": [
+    "tmpl/Solution.md",
+    "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
-    "algorithms/Problems/Arrays and Intervals/Find pivot index/Untitled.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index",
     "tmpl/Fails.md",
-    "tmpl/Solution.md",
     "tmpl",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/YandexCode.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query",

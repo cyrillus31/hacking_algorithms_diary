@@ -1,7 +1,10 @@
+#solution
 ## Problem
 ___
+[LINK](PLACEHOLDER)
 
-
+>[!Note]- Problem Description
+> Placeholder
 
 
 ## Solution Idea

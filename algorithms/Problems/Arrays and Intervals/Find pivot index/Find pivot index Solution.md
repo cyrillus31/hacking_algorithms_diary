@@ -1,5 +1,6 @@
 ## Problem
 ___
+https://leetcode.com/problems/find-pivot-index/submissions/1396174907/
 >[!Note}]- Problem description
 > Given an array of integers nums, calculate the pivot index of this array.
 > 
@@ -53,10 +54,25 @@ Because we walk over the array to create a prefix array and walk over once more 
 ___
 O(n)
 Because  we store the whole prefix array.
-## Code:
+## Code (first try!):
 ___
 ```go
-
-
-
+func pivotIndex(nums []int) int {
+    prefix := make([]int, len(nums) + 1) // to have one more at the start
+    
+    // fill out the prefix array; first element is 0 by default
+    for i := 1; i < len(prefix); i++ {
+        prefix[i] = prefix[i-1] + nums[i-1]
+    }
+    
+    // check every pivot
+    for i := 0; i < len(nums); i++ {
+        leftSum := prefix[i]
+        rightSum := prefix[len(prefix)-1] - prefix[i+1]
+        if leftSum == rightSum {
+            return i
+        }
+    } 
+    return -1
+}
 ```

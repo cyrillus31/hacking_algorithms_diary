@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
+                "file": "tmpl/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
+                "file": "tmpl/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md"
+                "file": "tmpl/Untitled.md"
               }
             }
           },
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
+                "file": "tmpl/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +156,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4746dfc17bc1bb82",
+  "active": "6d7fee2bd6f9265a",
   "lastOpenFiles": [
+    "tmpl/Solution.md",
+    "tmpl/Untitled.md",
+    "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
+    "tmpl",
+    "algorithms/Problems/Arrays and Intervals/Range Sum Query/YandexCode.md",
+    "algorithms/Problems/Arrays and Intervals/Range Sum Query",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
-    "algorithms/Problems/Arrays and Intervals/Range Sum Query Solution.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
@@ -177,8 +181,6 @@
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/ZaLC_RrSfIOOYyAMtLbx3GGZpoCF9GU9dQmjrWT_kUE.js",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/remote.js",
     "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/ad_status.js",
-    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-player.css",
-    "algorithms/Problems/hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender(1).js",
     "Pasted image 20240914135305.png",
     "Фильтр Блюма.md",
     "Avito.md",

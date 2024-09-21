@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d7fee2bd6f9265a",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
     "tmpl/Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",

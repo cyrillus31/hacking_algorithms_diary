@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bccea60dbdafad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md"
+                "file": "Interview.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc411ccd0289b297",
+  "active": "0bccea60dbdafad7",
   "lastOpenFiles": [
+    "algorithms/retry-list/retry-list.md",
+    "Interview.md",
     "tmpl/Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
@@ -167,7 +182,6 @@
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/YandexCode.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
-    "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Fails.md",

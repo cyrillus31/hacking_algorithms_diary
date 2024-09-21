@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bccea60dbdafad7",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
     "algorithms/retry-list/retry-list.md",
     "Interview.md",

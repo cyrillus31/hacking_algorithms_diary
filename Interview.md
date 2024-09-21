@@ -22,3 +22,4 @@ func findMaxConsecutiveOnes(nums []int) int {
     return maxCount
 }
 ```
+Ошибка: я забыл про MaxCount

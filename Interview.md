@@ -23,3 +23,5 @@ func findMaxConsecutiveOnes(nums []int) int {
 }
 ```
 Ошибка: я забыл про MaxCount
+
+Расстояние редактирования.

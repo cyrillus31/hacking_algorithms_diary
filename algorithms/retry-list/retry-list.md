@@ -7,5 +7,7 @@
 - [ ] Arrays:
 	- [ ] [[Maximum Products of 2 Elements in Array Solution]]
 	- [ ] [[Monotonic Array Solution]]
+	- [ ] [[algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails]]
+	
 
 

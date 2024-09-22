@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Subarray Sum Equals K.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Subarray Sum Equals K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md"
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Subarray Sum Equals K.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Subarray Sum Equals K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
   "active": "0bccea60dbdafad7",
   "lastOpenFiles": [
     "Interview.md",
-    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
+    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Subarray Sum Equals K.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
     "algorithms/retry-list/retry-list.md",
     "tmpl/Solution.md",

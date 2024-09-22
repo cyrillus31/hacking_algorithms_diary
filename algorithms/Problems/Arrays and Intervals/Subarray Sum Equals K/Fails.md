@@ -13,7 +13,7 @@ func subarraySum(nums []int, k int) int {
     r := 1
     for l <= r && l < len(nums) && r < len(nums) {
         sum := prefix[r+1] - prefix[l]
-        if sum == k { // PRO
+        if sum == k { // PROBLEM: this condition should also change pointers
             result++
         } else if sum < k && r < len(nums) {
             r++

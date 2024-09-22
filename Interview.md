@@ -22,6 +22,6 @@ func findMaxConsecutiveOnes(nums []int) int {
     return maxCount
 }
 ```
-Ошибка: я забыл про MaxCount. Мы же ищес
+Ошибка: я забыл про MaxCount. Мы же ищем самое частое повторение!
 
 Расстояние редактирования.

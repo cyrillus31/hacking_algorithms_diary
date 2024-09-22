@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab71c1acfd80799b",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
     "Interview.md",
     "Впоросы.md",

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab71c1acfd80799b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Впоросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,13 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d7fee2bd6f9265a",
+  "active": "ab71c1acfd80799b",
   "lastOpenFiles": [
+    "Interview.md",
+    "Впоросы.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "algorithms/retry-list/retry-list.md",
     "tmpl/Fails.md",
     "Untitled.md",
-    "Interview.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
     "tmpl/Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
@@ -194,7 +208,6 @@
     "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "algorithms/Problems/Hash-table/Top_K_frequent_elements/Fails.md",
     "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
-    "algorithms/Problems/Hash-table/Isomorphic_strings/My fails.md",
-    "algorithms/Problems/Hash-table/Isomorphic_strings/Help.md"
+    "algorithms/Problems/Hash-table/Isomorphic_strings/My fails.md"
   ]
 }

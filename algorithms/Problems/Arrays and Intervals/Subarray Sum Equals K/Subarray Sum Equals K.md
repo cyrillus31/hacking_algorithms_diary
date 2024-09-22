@@ -25,7 +25,7 @@ func subarraySum(nums []int, k int) int {
 ```
 
 **Explanation:**
-Time limit exceeded. Obviously, I am stuck in a infinite loop here. Let's try and figure out what's wrong with my condition here. I'm doing the lop while left pointer is less or equal to the right pointer. Therefore the loop will only break if left pointer is larger then the right pointer. When do we increment the left pointer? Only if sum is larger than `k` and `l` is not out of scope. That would mean that this case is not present. I can imagine that `l` is far from the end but the sum is less than `k` and therefore `l` would never move.
+Time limit exceeded. Obviously, I am stuck in a infinite loop here. Let's try and figure out what's wrong with my condition here. 
 So what is my case for breaking thee loop?
 
 
@@ -33,9 +33,32 @@ So what is my case for breaking thee loop?
 ## Second try
 ____
 ```go
-
-
-
+func subarraySum(nums []int, k int) int {
+    prefix := make([]int, len(nums)+1)
+    result := 0
+    // calculate prefix sum array
+    for i := 1; i < len(prefix); i++ {
+        prefix[i] = prefix[i-1] + nums[i-1]
+    }
+    l := 0
+    r := 1
+    for l <= r && l < len(nums) && r < len(nums) {
+        sum := prefix[r+1] - prefix[l]
+        if sum == k {
+            result++
+            if l == r {
+                r++
+            } else {
+                l++
+            }
+        } else if sum < k {
+            r++
+        } else if sum > k {
+            l++
+        }
+    }
+    return result
+}
 ```
 
 **Explanation:**

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview.md"
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,10 @@
   },
   "active": "0bccea60dbdafad7",
   "lastOpenFiles": [
-    "algorithms/retry-list/retry-list.md",
     "Interview.md",
+    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Untitled.md",
+    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
+    "algorithms/retry-list/retry-list.md",
     "tmpl/Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
@@ -195,7 +197,6 @@
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender.js",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/embed.js",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/ZaLC_RrSfIOOYyAMtLbx3GGZpoCF9GU9dQmjrWT_kUE.js",
-    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/remote.js",
     "Pasted image 20240914135305.png",
     "Фильтр Блюма.md",
     "Avito.md",
@@ -207,7 +208,6 @@
     "algorithms/Problems/hash-table/Isomorphic strings/My fails.md",
     "algorithms/Problems/Hash-table/Isomorphic_strings/My fails.md",
     "algorithms/Problems/Hash-table/Isomorphic_strings/Help.md",
-    "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md",
-    "algorithms/Problems/hash-table/Isomorphic strings/Help.md"
+    "algorithms/Problems/hash-table/Isomorphic strings/My Solution.md"
   ]
 }

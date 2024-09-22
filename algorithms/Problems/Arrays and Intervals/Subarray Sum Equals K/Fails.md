@@ -60,7 +60,7 @@ func subarraySum(nums []int, k int) int {
 }
 ```
 
-**PROBLEM:** Time limit exceeded. Obviously, I am stuck in a infinite loop here. Let's try and figure out what's wrong with my condition here. 
+**PROBLEM:** when nums = \[1\] it was returning 0
 
 **SOLUTION:** I wasn't increasing `l` or `r` on each condition inside the loop! First condition didn't move any pointer!
 

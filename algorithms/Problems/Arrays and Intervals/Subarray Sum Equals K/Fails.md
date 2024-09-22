@@ -13,7 +13,7 @@ func subarraySum(nums []int, k int) int {
     r := 1
     for l <= r && l < len(nums) && r < len(nums) {
         sum := prefix[r+1] - prefix[l]
-        if sum == k {
+        if sum == k { // PRO
             result++
         } else if sum < k && r < len(nums) {
             r++
@@ -40,7 +40,7 @@ func subarraySum(nums []int, k int) int {
         prefix[i] = prefix[i-1] + nums[i-1]
     }
     l := 0
-    r := 1
+    r := 1 //PROBLEM: this should be 0
     for l <= r && l < len(nums) && r < len(nums) {
         sum := prefix[r+1] - prefix[l]
         if sum == k {
@@ -62,7 +62,7 @@ func subarraySum(nums []int, k int) int {
 
 **PROBLEM:** when nums = \[1\] it was returning 0
 
-**SOLUTION:** I wasn't increasing `l` or `r` on each condition inside the loop! First condition didn't move any pointer!
+**SOLUTION:** I was not accounting for the fact that the sum can  be created out of the first element itself.
 
 
 

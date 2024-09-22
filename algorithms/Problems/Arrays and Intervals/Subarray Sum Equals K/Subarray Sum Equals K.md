@@ -24,9 +24,8 @@ func subarraySum(nums []int, k int) int {
 }
 ```
 
-**Explanation:**
-Time limit exceeded. Obviously, I am stuck in a infinite loop here. Let's try and figure out what's wrong with my condition here. 
-So what is my case for breaking thee loop?
+**Issue:** Time limit exceeded. Obviously, I am stuck in a infinite loop here. Let's try and figure out what's wrong with my condition here. 
+**THE PROBLEM:** I wasn't increasing `l` or ``
 
 
 

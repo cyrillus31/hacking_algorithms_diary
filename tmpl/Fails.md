@@ -1,4 +1,4 @@
-#fails #arra
+#fails 
 ## First try
 ___
 ```go

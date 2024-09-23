@@ -43,13 +43,24 @@ Because we just walk over the main arrays.
 ## Space Complexity
 ___
 O(n)
-Because if each prefix sum in unique  - the l
+Because if each prefix sum in unique  - the length of prefix sum array will be at max  `n`
 
 
 ## Code:
 ___
 ```go
-
-
-
+func subarraySum(nums []int, k int) int {
+    curSum := 0
+    count := 0
+    prefix := map[int]int{0: 1}
+    for _, num := range nums {
+        curSum = curSum + num
+        diff := curSum - k
+        if encounters, ok := prefix[diff]; ok {
+            count = count + encounters
+        }
+        prefix[curSum]++
+    }
+    return count
+}
 ```

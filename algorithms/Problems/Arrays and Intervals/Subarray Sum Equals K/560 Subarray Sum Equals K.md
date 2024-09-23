@@ -43,7 +43,7 @@ Because we just walk over the main arrays.
 ## Space Complexity
 ___
 O(n)
-Because at max we will store all of the elem
+Because if each prefix sum in unique  - the l
 
 
 ## Code:

@@ -30,15 +30,15 @@ ___
 
 ## Solution Idea
 ___
-We are going to use prefix array to create 
+We are going to use prefix array to calculate how many times we have encountered subarrays subtracting which will result in a needed sum.
 
 
 
 
 ## Time Complexity
 ___
-O(?) - where 
-Because 
+O(n)
+Because  
 
 ## Time Complexity
 ___

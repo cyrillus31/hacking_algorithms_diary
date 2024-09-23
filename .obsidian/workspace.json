@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
+                "file": "Впоросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,8 @@
   },
   "active": "ab71c1acfd80799b",
   "lastOpenFiles": [
-    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
+    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "Впоросы.md",
     "Interview.md",
     "algorithms/retry-list/retry-list.md",

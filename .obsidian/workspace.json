@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Впоросы.md",
+                "file": "Плавающие окна.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Впоросы.md",
+                "file": "Плавающие окна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Впоросы.md"
+                "file": "Плавающие окна.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Впоросы.md",
+                "file": "Плавающие окна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,9 @@
   },
   "active": "06ab636b22923c14",
   "lastOpenFiles": [
-    "Плавающие окна.md",
+    "Фильтр Блюма.md",
     "Впоросы.md",
+    "Плавающие окна.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "Interview.md",
@@ -203,7 +204,6 @@
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/embed.js",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/ZaLC_RrSfIOOYyAMtLbx3GGZpoCF9GU9dQmjrWT_kUE.js",
     "Pasted image 20240914135305.png",
-    "Фильтр Блюма.md",
     "Avito.md",
     "algorithms/Problems/Hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
     "algorithms/Problems/Hash-table/h-Index/fails.md",

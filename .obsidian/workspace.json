@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Впоросы.md"
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +156,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc411ccd0289b297",
+  "active": "ab71c1acfd80799b",
   "lastOpenFiles": [
-    "Interview.md",
     "Впоросы.md",
+    "Interview.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "algorithms/retry-list/retry-list.md",
     "tmpl/Fails.md",

@@ -1,5 +1,5 @@
 #fails #array #prefix_array 
-## First try
+## First try (wrong idea)
 ___
 ```go
 func subarraySum(nums []int, k int) int {
@@ -29,7 +29,7 @@ func subarraySum(nums []int, k int) int {
 
 **SOLUTION:** I wasn't increasing `l` or `r` on each condition inside the loop! First condition didn't move any pointer!
 
-## Second try
+## Second try (still wrong idea)
 ____
 ```go
 func subarraySum(nums []int, k int) int {

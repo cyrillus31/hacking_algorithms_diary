@@ -37,13 +37,13 @@ We are going to use prefix array to calculate how many times we have encountered
 
 ## Time Complexity
 ___
-O(n)
-Because  
+**O(n)**
+Because we just walk over the main arrays.
 
-## Time Complexity
+## Space Complexity
 ___
-O(?) - where 
-Because 
+O(n)
+Because at max we will store all of the elem
 
 
 ## Code:

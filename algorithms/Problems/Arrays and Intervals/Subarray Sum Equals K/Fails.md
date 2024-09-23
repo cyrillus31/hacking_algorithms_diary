@@ -64,8 +64,23 @@ func subarraySum(nums []int, k int) int {
 
 **SOLUTION:** I was not accounting for the fact that the sum can  be created out of the first element itself.
 
-
-
+## Third try (correct idea)
+```go
+func subarraySum(nums []int, k int) int {
+    curSum := 0
+    count := 0
+    prefix := map[int]int{0: 1}
+    for i, num := range nums {  //PROBLEM: i is not used!
+        curSum = curSum + num
+        diff := curSum - k
+        if encounters, ok := prefix[diff]; ok {
+            count = count + encounters
+        }
+        prefix[curSum]++
+    }
+    return count
+}
+```
 
 
 

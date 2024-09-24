@@ -51,8 +51,8 @@ Two pointers here. Since the leftmost number is the smallest one (and can be neg
 
 ## Time Complexity
 ___
-O(?) - where 
-Because 
+**(O(n)**
+Because  we just walk over an array
 
 ## Time Complexity
 ___
@@ -63,7 +63,29 @@ Because
 ## Code:
 ___
 ```go
-
-
-
+func sortedSquares(nums []int) []int {
+    // init variables to use
+    result := make([]int, len(nums))
+    l := 0
+    r := len(nums) - 1
+    insertAt := r
+    // walk over the array with two pointers while they do not cross
+    for insertAt >= 0 {
+        lSquared := nums[l] * nums[l]
+        rSquared := nums[l] * nums[r]
+        // if pointers point to the same element 
+        if l == r {
+            result[insertAt] = lSquared
+            return result
+        } else if lSquared > rSquared {
+            result[insertAt] = lSquared
+            l++
+        } else {
+            result[insertAt] = rSquared
+            r--
+        }
+        insertAt--
+    }
+    return result
+}
 ```

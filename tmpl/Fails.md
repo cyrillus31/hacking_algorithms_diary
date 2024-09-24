@@ -42,6 +42,7 @@ func isPalindrome(s string) bool {
 ```
 
 **PROBLEM:** "A man, a plan, a canal: Panama"
+Wrongly returns *false*
 
 **SOLUTION:**
 

@@ -1,4 +1,5 @@
 #fails 
+#two
 ## First try
 ___
 ```go
@@ -12,7 +13,7 @@ func toLower(r byte) byte {
 }
 
 func isAlphanumeric(r byte) bool {
-    return (byte('0') <= r && r <= byte('9')) || (byte('a') <= r && r <= byte('z'))
+    return (byte('0') <= r && r <= byte('9')) || (byte('a') <= r && r <= byte('z'))  // PROBLEM: this doesn't check for upper case
 }
 
 
@@ -44,7 +45,7 @@ func isPalindrome(s string) bool {
 **PROBLEM:** "A man, a plan, a canal: Panama"
 Wrongly returns *false*
 
-**SOLUTION:**
+**SOLUTION:** forgot about uppercase check in *isAlphanumeric* funciton
 
 
 

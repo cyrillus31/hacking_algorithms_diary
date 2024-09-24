@@ -68,7 +68,9 @@ func isPalindrome(s string) bool {
 ```
 
 > [!Attention]-
-> - My solution doesn't use standard library - that's good.
+> - My solution doesn't use standard library - that's a plus.
+> - Make use of two variables declaration on one line
+
 
 ## Example solution:
 ___

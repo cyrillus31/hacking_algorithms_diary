@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Впоросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Плавающие окна.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,8 @@
   },
   "active": "06ab636b22923c14",
   "lastOpenFiles": [
-    "Впоросы.md",
     "Плавающие окна.md",
+    "Впоросы.md",
     "Фильтр Блюма.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",

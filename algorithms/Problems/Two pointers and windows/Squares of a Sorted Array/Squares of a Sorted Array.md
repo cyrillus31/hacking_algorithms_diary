@@ -1,7 +1,7 @@
 #solution
 ## Problem
 ___
-[LINK](PLACEHOLDER)
+[LINK](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 
 >[!Note]- Problem Description
 >/*
@@ -39,7 +39,7 @@ ___
 > */
 > 
 > Time: O(n)
-> Space: O(1)
+> Space: O(n)
 
 
 
@@ -51,13 +51,13 @@ Two pointers here. Since the leftmost number is the smallest one (and can be neg
 
 ## Time Complexity
 ___
-**(O(n)**
-Because  we just walk over an array
+**O(n)**
+Because  we just walk over an array.
 
-## Time Complexity
+## Space Complexity
 ___
-O(?) - where 
-Because 
+**O(n)**
+Because  we store the result in the same size array.
 
 
 ## Code:

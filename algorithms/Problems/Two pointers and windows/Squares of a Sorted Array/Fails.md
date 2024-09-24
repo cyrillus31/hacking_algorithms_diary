@@ -30,8 +30,9 @@ func sortedSquares(nums []int) []int {
 ```
 
 **PROBLEM:** 
-Input: [-4, -]
-kreturns \[0, 0, 0, 1, 16] 
+Input: [-4, -1, 0, 3, 10]
+Returns \[0, 0, 0, 1, 16] 
+Correct \[0, 1, 9, 16, 100]
 
 **SOLUTION:**
 

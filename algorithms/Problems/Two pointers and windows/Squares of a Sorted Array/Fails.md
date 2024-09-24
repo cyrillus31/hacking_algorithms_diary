@@ -11,7 +11,7 @@ func sortedSquares(nums []int) []int {
     // walk over the array with two pointers while they do not cross
     for insertAt >= 0 {
         lSquared := nums[l] * nums[l]
-        rSquared := nums[l] * nums[r]
+        rSquared := nums[l] * nums[r]  // PROBLEM: look at that typo!
         // if pointers point to the same element 
         if l == r {
             result[insertAt] = lSquared
@@ -35,6 +35,7 @@ Returns \[0, 0, 0, 1, 16]
 Correct \[0, 1, 9, 16, 100]
 
 **SOLUTION:**
+I had a dumb typo when calculating rSquared
 
 
 

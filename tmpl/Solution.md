@@ -29,6 +29,18 @@ Because
 ## My Code:
 ___
 ```go
+
+
+
+```
+
+> [!NWhat to notice:
+___
+- My solution doesn't use standard library - that's good.
+
+## Example solution:
+___
+```go
 func isPalindrome(s string) bool {
     l, r := 0, len(s) - 1
     for l < r {
@@ -55,14 +67,4 @@ func isPalindrome(s string) bool {
     }
     return true
 }
-```
-
-## What to improve:
-___
-
-
-## Example solution:
-___
-```go
-
 ```

@@ -1,5 +1,5 @@
 #fails #array #prefix_array 
-## First try
+## First try (wrong idea)
 ___
 ```go
 func subarraySum(nums []int, k int) int {
@@ -29,7 +29,7 @@ func subarraySum(nums []int, k int) int {
 
 **SOLUTION:** I wasn't increasing `l` or `r` on each condition inside the loop! First condition didn't move any pointer!
 
-## Second try
+## Second try (still wrong idea)
 ____
 ```go
 func subarraySum(nums []int, k int) int {
@@ -64,8 +64,23 @@ func subarraySum(nums []int, k int) int {
 
 **SOLUTION:** I was not accounting for the fact that the sum can  be created out of the first element itself.
 
-
-
+## Third try (correct idea)
+```go
+func subarraySum(nums []int, k int) int {
+    curSum := 0
+    count := 0
+    prefix := map[int]int{0: 1}
+    for i, num := range nums {  //PROBLEM: i is not used!
+        curSum = curSum + num
+        diff := curSum - k
+        if encounters, ok := prefix[diff]; ok {
+            count = count + encounters
+        }
+        prefix[curSum]++
+    }
+    return count
+}
+```
 
 
 

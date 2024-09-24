@@ -1,2 +1,5 @@
 ### Sorting
-- Merge so
+- Merge sort
+- Quick sort
+- Count sort
+- Heap sort

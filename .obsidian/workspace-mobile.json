@@ -130,9 +130,17 @@
             "file": "To know at the top of your head.md"
           }
         }
+      },
+      {
+        "id": "9e1f6714ae734bf8",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {

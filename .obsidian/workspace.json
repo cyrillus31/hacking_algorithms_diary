@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmpl/Solution.md",
+                "file": "tmpl/Fails.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmpl/Solution.md",
+                "file": "tmpl/Fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmpl/Solution.md"
+                "file": "tmpl/Fails.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmpl/Solution.md",
+                "file": "tmpl/Fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +172,7 @@
   },
   "active": "06ab636b22923c14",
   "lastOpenFiles": [
+    "tmpl/Solution.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Squares of a Sorted Array.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Fails.md",
     "Впоросы.md",
@@ -185,7 +187,6 @@
     "tmpl/Fails.md",
     "Untitled.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
-    "tmpl/Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index",

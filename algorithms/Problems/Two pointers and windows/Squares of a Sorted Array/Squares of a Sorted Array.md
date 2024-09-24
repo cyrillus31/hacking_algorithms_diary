@@ -45,7 +45,7 @@ ___
 
 ## Solution Idea
 ___
-Two pointers here. Since the leftmost number is the smallest one (and can be negative) and the rightmost one is the biggest we will use two pointers: one on the left side and one on the right. We will calcualte 
+Two pointers here. Since the leftmost number is the smallest one (and can be negative) and the rightmost one is the biggest we will use two pointers: one on the left side and one on the right. We will calculate squares for both of those numbers and compare them. The biggest one we will write to the rightmost empty position in the resulting array. Move one pointer. Repeat.
 
 
 

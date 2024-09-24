@@ -34,9 +34,9 @@ ___
 
 ```
 
-> [!NWhat to notice:
-___
-- My solution doesn't use standard library - that's good.
+> [!Attention] Take notice
+> - My solution doesn't use standard library - that's good.
+
 
 ## Example solution:
 ___

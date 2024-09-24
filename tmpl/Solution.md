@@ -29,17 +29,17 @@ Because we don't use any additional memory save pointers.
 ## My Code:
 ___
 ```go
-const capitalDiff byte = byte('a') - byte('A')
+const capitalDiff int32 = 'a' - 'A'
 
-func toLower(r byte) byte {
-    if byte('A') <= r && r <= byte('Z') {
+func toLower(r rune) rune {
+    if 'A' <= r && r <= 'Z' {
         return capitalDiff + r
     }
     return r
 }
 
-func isAlphanumeric(r byte) bool {
-    return (byte('0') <= r && r <= byte('9')) || (byte('a') <= r && r <= byte('z')) || (byte('A') <= r && r <= byte('Z'))
+func isAlphanumeric(r rune) bool {
+    return ('0' <= r && r <= '9') || ('a' <= r && r <= 'z') || ('A' <= r && r <= 'Z')
 }
 
 
@@ -47,8 +47,8 @@ func isPalindrome(s string) bool {
     l := 0
     r := len(s) - 1
     for l <= r {
-        left := s[l]
-        right := s[r]
+        left := rune(s[l])
+        right := rune(s[r])
         if ! isAlphanumeric(left) {
             l++
             continue

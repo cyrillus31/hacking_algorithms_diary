@@ -15,12 +15,12 @@ ___
 
 ## Time Complexity
 ___
-O(?) - where 
+**O(?)** - where 
 Because 
 
-## Time Complexity
+## Space Complexity
 ___
-O(?) - where 
+**O(?)** - where 
 Because 
 
 

@@ -45,7 +45,7 @@ ___
 
 ## Solution Idea
 ___
-Two po
+Two pointers here. Since the leftmost number is the smallest one (and can be negative) and the rightmost one is the biggest we will use two pointers: one on the left side and one on the right. We will calcualte 
 
 
 

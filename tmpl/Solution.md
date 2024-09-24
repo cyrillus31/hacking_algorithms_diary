@@ -34,12 +34,13 @@ ___
 
 ```
 
-> [!Attention] Take notice
+> [!Attention]-
 > - My solution doesn't use standard library - that's good.
-
 
 ## Example solution:
 ___
+[Video](https://kinescope.io/s9YYQkqxwKioSSPPXDNWrw)
+
 ```go
 func isPalindrome(s string) bool {
     l, r := 0, len(s) - 1

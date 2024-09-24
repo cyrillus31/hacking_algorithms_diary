@@ -9,7 +9,7 @@ ___
 
 ## Solution Idea
 ___
-Use two pointers from left and right side and walk them towards each other. If some pointer doesn't 
+Use two pointers from left and right side and walk them towards each other. Check if a pointer points to an alphanumeric character and turn in into lowercase. Otherwise skip that character. 
 
 ## Special Test Cases
 ___

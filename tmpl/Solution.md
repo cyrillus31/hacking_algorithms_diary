@@ -9,11 +9,11 @@ ___
 
 ## Solution Idea
 ___
-
+Use two pointers from left and right side and walk them towards each other. If some pointer doesn't 
 
 ## Special Test Cases
 ___
-
+xxx
 
 ## Time Complexity
 ___
@@ -23,7 +23,7 @@ Because we use two pointers to walk over the array.
 ## Space Complexity
 ___
 **O(1)**
-Because we don't use any addi
+Because we don't use any additional memory save pointers.
 
 
 ## My Code:

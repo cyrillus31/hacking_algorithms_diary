@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "defab9df50d996df",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dfa607ae20c4d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8470b53a40d10d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Впоросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ce0838fca024f88",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a877155ed58ec42",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "98b36198b71fb6c5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bf60a49e703a2bc9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c1069b2fe8f7f0c3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f0bfb2dfdfb1ac61",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5c4c11b1b5b3b0ae",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Впоросы.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0f3d2a1acdd9030b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Впоросы.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "71b29ac93e80bcb0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Впоросы.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8470b53a40d10d23",
+  "lastOpenFiles": [
+    "Фильтр Блюма.md",
+    "Впоросы.md",
+    "tmpl/Solution.md",
+    "tmpl/Fails.md",
+    "algorithms/retry-list/retry-list.md",
+    "algorithms/Problems/Hash-table/h-Index/fails.md",
+    "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+    "algorithms/Problems/Hash-table/Top_K_frequent_elements/Fails.md",
+    "algorithms/Problems/Hash-table/Isomorphic_strings/My fails.md",
+    "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+    "algorithms/Problems/Hash-table/Isomorphic_strings/Help.md",
+    "algorithms/Problems/Hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md",
+    "algorithms/Problems/Hash-table/Find prefix common  array of two arrays/Fails.md",
+    "algorithms/Problems/Hash-table/ASSIGNMENT.md",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-player.css",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-embed-player.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/tag.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/remote.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/index-C1ff80vM.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/embed.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender(1).js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/base.js",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/attachments.redirect",
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
+    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
+    "algorithms/Problems/Arrays and Intervals/Range Sum Query/YandexCode.md",
+    "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
+    "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",
+    "algorithms/Problems/Arrays and Intervals/Monotonic Array/Fails.md",
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
+    "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
+    "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
+    "Untitled.md",
+    "Pasted image 20240914135305.png",
+    "Interview.md",
+    "Avito.md"
+  ]
+}

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmpl/Fails 1.md",
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmpl/Fails 1.md",
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmpl/Fails 1.md"
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmpl/Fails 1.md",
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,11 @@
   },
   "active": "06ab636b22923c14",
   "lastOpenFiles": [
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome",
+    "algorithms/Problems/Two pointers and windows/Untitled.md",
     "tmpl/Fails.md",
-    "tmpl/Fails 1.md",
     "To know at the top of your head.md",
     "tmpl/Solution.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Squares of a Sorted Array.md",
@@ -205,9 +208,6 @@
     "algorithms/Problems/Arrays and Intervals",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "algorithms/Problems/Hash-table/ASSIGNMENT.md",
-    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/cast_sender.js",
-    "Pasted image 20240914135305.png",
-    "Avito.md",
-    "algorithms/Problems/Hash-table/Find prefix common  array of two arrays/Find prefix array Solution.md"
+    "Pasted image 20240914135305.png"
   ]
 }

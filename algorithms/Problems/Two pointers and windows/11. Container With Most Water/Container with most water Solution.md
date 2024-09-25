@@ -48,17 +48,20 @@ ___
 ## Solution Idea
 ___
 Two pointers, one on the left and the other on the right. Calculate new area based on the smallest height. If this area is bigger that previous max area then overwrite it.
-What about the pointers? If the height of at those pointers is equal then move them towards each other - it can't get any worse. Otherwise move the pointer to the smallest height to increase chan
+What about the pointers? If the height of at those pointers is equal then move them towards each other - it can't get any worse. Otherwise move the pointer to the smallest height to increase chances of increasing the amount of water you can fill in.
 
 
 ## Special Test Cases
 ___
-
+```
+[2,2,3,5,2,2]
+result: 10
+```
 
 ## Time Complexity
 ___
-**O(?)** 
-Because
+**O(n)** 
+Because we just walk over
 
 ## Space Complexity
 ___

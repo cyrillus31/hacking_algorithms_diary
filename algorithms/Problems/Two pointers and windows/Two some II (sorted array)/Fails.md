@@ -22,7 +22,7 @@ func twoSum(numbers []int, target int) []int {
 }
 ```
 
-**PROBLEM:** 
+**PROBLEM:** Input \[2,7,11,15] Return: \[]
 
 **SOLUTION:**
 

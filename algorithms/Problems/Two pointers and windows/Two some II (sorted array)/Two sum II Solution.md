@@ -1,4 +1,5 @@
 #solution 
+#two-pointers 
 ## Problem
 ___
 [LINK](PLACEHOLDER)
@@ -33,7 +34,7 @@ ___
 ```
 
 > [!Attention]-
-> -  Don't forget to return in any case. Compiler doesn't know that there's
+> -  Don't forget to return in any case. Compiler doesn't know that there will be solution.
 
 
 ## Example solution:

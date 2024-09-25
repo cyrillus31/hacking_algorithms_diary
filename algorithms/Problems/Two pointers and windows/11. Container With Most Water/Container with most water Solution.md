@@ -1,11 +1,12 @@
 #solution 
+#two-pointers 
 ## Problem
 ___
-> [LINK](https://leetcode.com/problems/container-with-most-water/description/)
-> 
-> >[!Note]- Problem Description
-> > Placeholder
-> > /*
+ [LINK](https://leetcode.com/problems/container-with-most-water/description/)
+ 
+>[!Note]- Problem Description
+> Placeholder
+> /*
 > You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
 > 
 > Find two lines that together with the x-axis form a container, such that the container contains the most water.
@@ -44,10 +45,9 @@ ___
 > // Time: O(n)
 > // Space: O(1)
 
-
-
 ## Solution Idea
 ___
+Two pointers, one on the left and the other on the right. Ca
 
 
 ## Special Test Cases

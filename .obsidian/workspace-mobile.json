@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+                "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
+            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md"
+            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md"
           }
         }
       },
@@ -156,6 +156,7 @@
   "active": "fe1da2aba253814e",
   "lastOpenFiles": [
     "algorithms/retry-list/retry-list.md",
+    "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
     "To know at the top of your head.md",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
@@ -184,7 +185,6 @@
     "/Плавающие окна.md",
     "/tmpl/Solution.md",
     "/algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
-    "/algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array",
     "algorithms/Problems/Two pointers and windows",
     "/algorithms/Problems/Two pointers and windows/Squares of a Sorted Array",

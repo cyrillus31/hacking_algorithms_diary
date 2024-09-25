@@ -1,4 +1,5 @@
-#solution ## Problem
+#solution 
+## Problem
 ___
 [LINK](PLACEHOLDER)
 
@@ -8,8 +9,11 @@ ___
 
 ## Solution Idea
 ___
+
+
 ## Special Test Cases
 ___
+
 
 ## Time Complexity
 ___
@@ -21,10 +25,11 @@ ___
 **O(?)**
 Because
 
-
 ## My Code:
 ___
 ```go
+
+
 ```
 
 > [!Attention]-
@@ -36,5 +41,6 @@ ___
 [Video](VIDEO_LINK)
 
 ```go
+
 
 ```

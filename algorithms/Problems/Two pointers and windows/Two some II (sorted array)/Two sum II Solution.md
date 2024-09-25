@@ -50,12 +50,16 @@ Two pointer on the leftmost element and on the rightmost element. Left one is th
 
 ## Special Test Cases
 ___
+```
+[0,0,0] target = 0
+[-2,0,2] target = 0
+```
 
 
 ## Time Complexity
 ___
 **O(n)** 
-Because
+Because we walk over the whole array
 
 ## Space Complexity
 ___

@@ -18,7 +18,7 @@ func twoSum(numbers []int, target int) []int {
             l++
         }
     }
-    return []int{} //PROBLEM
+    return []int{}
 }
 ```
 

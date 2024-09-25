@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md"
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Untitled.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,10 @@
   },
   "active": "7daa314b9a088a3e",
   "lastOpenFiles": [
-    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+    "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Untitled.md",
+    "2024-09-25.md",
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
     "tmpl/TEMPLATE_Solution.md",
@@ -190,9 +192,7 @@
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Fails.md",
-    "algorithms/Problems/Arrays and Intervals/Monotonic Array/Fails.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array",
-    "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "Pasted image 20240914135305.png"

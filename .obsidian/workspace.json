@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "tmpl/Solution 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "tmpl/Solution 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md"
+                "file": "tmpl/Solution 1.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "tmpl/Solution 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,11 +172,13 @@
   "active": "06ab636b22923c14",
   "lastOpenFiles": [
     "tmpl/Solution.md",
+    "tmpl/Solution 1.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
+    "tmpl/Fails.md",
+    "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome",
     "algorithms/Problems/Two pointers and windows/Untitled.md",
-    "tmpl/Fails.md",
     "To know at the top of your head.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Squares of a Sorted Array.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Fails.md",
@@ -189,7 +190,6 @@
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails.md",
     "Interview.md",
-    "algorithms/retry-list/retry-list.md",
     "Untitled.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
@@ -208,7 +208,6 @@
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array",
     "algorithms/Problems/Arrays and Intervals",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
-    "algorithms/Problems/Hash-table/ASSIGNMENT.md",
     "Pasted image 20240914135305.png"
   ]
 }

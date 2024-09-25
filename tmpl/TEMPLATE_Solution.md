@@ -1,7 +1,5 @@
-#solution
-## Problem
-___
-[LINK](PLACEHOLDER)
+#solution ## Problem
+___ [LINK](PLACEHOLDER)
 
 >[!Note]- Problem Description
 > Placeholder
@@ -30,7 +28,6 @@ Because we don't use any additional memory save pointers.
 ___
 ```go
 const capitalDiff int32 = 'a' - 'A'
-
 func toLower(r rune) rune {
     if 'A' <= r && r <= 'Z' {
         return capitalDiff + r

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmpl/Solution 1.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmpl/Solution 1.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmpl/Solution 1.md"
+                "file": "tmpl/TEMPLATE_Solution.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmpl/Solution 1.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +171,10 @@
   },
   "active": "06ab636b22923c14",
   "lastOpenFiles": [
-    "tmpl/Solution.md",
-    "tmpl/Solution 1.md",
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
-    "tmpl/Fails.md",
+    "tmpl/TEMPLATE_Solution.md",
+    "tmpl/TEMPLATE_Fails.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome",

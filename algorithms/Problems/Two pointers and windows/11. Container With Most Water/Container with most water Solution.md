@@ -47,7 +47,8 @@ ___
 
 ## Solution Idea
 ___
-Two pointers, one on the left and the other on the right. Ca
+Two pointers, one on the left and the other on the right. Calculate new area based on the smallest height. If this area is bigger that previous max area then overwrite it.
+What about the pointers? If the high
 
 
 ## Special Test Cases

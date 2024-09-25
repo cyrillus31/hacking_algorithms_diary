@@ -169,11 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06ab636b22923c14",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
-    "tmpl/TEMPLATE_Solution.md",
-    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
+    "tmpl/TEMPLATE_Solution.md",
     "tmpl/TEMPLATE_Fails.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",

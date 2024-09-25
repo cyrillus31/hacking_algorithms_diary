@@ -96,14 +96,33 @@ func maxArea(hight []int) int {
 ```
 
 > [!Attention]
-> - N
+> - No notes. It was easy once you figured out the pointers logic.
 
 
 ## Example solution:
 ___
-[Video](VIDEO_LINK)
+[Video](https://kinescope.io/coJf2KTHRUmBAdjH4zUb9J)
 
 ```go
-
+// time: O(n)
+// mem:  O(1)
+func maxArea(height []int) int {
+	l := 0
+	r := len(height) - 1
+	resultArea := 0
+	for l < r {
+		// текущая площадь ограниченная l и r
+		currArea := min(height[l], height[r]) * (r - l)
+		// обновляем максимальную площадь
+		resultArea = max(resultArea, currArea)
+		// Сдвигаем указатель, который указывает на меньшую высоту
+		if height[l] < height[r] {
+			l += 1
+		} else {
+			r -= 1
+		}
+	}
+	return resultArea
+}
 
 ```

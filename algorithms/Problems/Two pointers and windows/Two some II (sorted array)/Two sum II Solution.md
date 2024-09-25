@@ -46,7 +46,7 @@ Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 <
 
 ## Solution Idea
 ___
-Two pointer on the leftmost element and on the rightmost element. Left one is the smallest, right one is the largest. If we know our target and we know one element then we know what number we are missing. 
+Two pointer on the leftmost element and on the rightmost element. Left one is the smallest, right one is the largest. If we know our target and we know one element then we know what number we are missing. If the right pointer point to that number that we are missing we return the result. If it is bigger that the number that we are missing - we shift it to the left. If it is smaller - we shift the left pointer to the right. 
 
 ## Special Test Cases
 ___

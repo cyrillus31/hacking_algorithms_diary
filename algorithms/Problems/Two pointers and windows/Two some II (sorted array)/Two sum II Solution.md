@@ -96,7 +96,7 @@ func twoSum(numbers []int, target int) []int {
 
 ## Example solution:
 ___
-[Video](VIDEO_LINK)
+[Video](https://kinescope.io/c6yKmiiBWqYczvBVqsWDLx)
 
 ```go
 func twoSum(nums []int, target int) []int {

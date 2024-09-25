@@ -48,7 +48,7 @@ ___
 ## Solution Idea
 ___
 Two pointers, one on the left and the other on the right. Calculate new area based on the smallest height. If this area is bigger that previous max area then overwrite it.
-What about the pointers? If the high
+What about the pointers? If the height of at those pointers is equal then move them towards each other - it can't get any worse. Otherwise move the pointer to the smallest height to increase chan
 
 
 ## Special Test Cases

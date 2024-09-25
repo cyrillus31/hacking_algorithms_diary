@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To know at the top of your head.md",
+                "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "To know at the top of your head.md",
+            "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "To know at the top of your head.md",
+            "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "To know at the top of your head.md"
+            "file": "algorithms/Problems/Hash-table/Isomorphic_strings/Isomorphic strings solution.md"
           }
         }
       },
@@ -155,6 +155,8 @@
   },
   "active": "fe1da2aba253814e",
   "lastOpenFiles": [
+    "algorithms/retry-list/retry-list.md",
+    "To know at the top of your head.md",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
@@ -173,7 +175,6 @@
     "/algorithms/Problems/Two pointers and windows/Two some II (sorted array)",
     "/algorithms/Problems/Two pointers and windows/Is Valid Palindrome",
     "Впоросы.md",
-    "To know at the top of your head.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Squares of a Sorted Array.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Fails.md",
     "Плавающие окна.md",
@@ -188,7 +189,6 @@
     "algorithms/Problems/Two pointers and windows",
     "/algorithms/Problems/Two pointers and windows/Squares of a Sorted Array",
     "/algorithms/Problems/Two pointers and windows",
-    "Фильтр Блюма.md",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-player.css",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/www-embed-player.js",

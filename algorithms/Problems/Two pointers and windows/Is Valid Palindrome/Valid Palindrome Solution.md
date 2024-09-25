@@ -57,7 +57,7 @@ ___
 > Space: O(1) or maybe O(0) ??
 > */
 
-## Valid palindrome solution
+## Solution Idea
 ___
 Use two pointers from left and right side and walk them towards each other. Check if a pointer points to an alphanumeric character and turn in into lowercase. Otherwise skip that character. 
 

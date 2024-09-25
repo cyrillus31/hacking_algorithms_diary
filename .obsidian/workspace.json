@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "69a96dca0a4aad5c",
+        "id": "d2748d974d3bc308",
         "type": "tabs",
         "children": [
           {
-            "id": "ab71c1acfd80799b",
+            "id": "7daa314b9a088a3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Впоросы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ab636b22923c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md"
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md"
               }
             }
           },
@@ -144,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +154,9 @@
   },
   "active": "dc411ccd0289b297",
   "lastOpenFiles": [
+    "algorithms/Problems/Two pointers and windows/Two some II (sorted array)",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
-    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Solution 1.md",
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
     "tmpl/TEMPLATE_Solution.md",
     "tmpl/TEMPLATE_Fails.md",
     "algorithms/retry-list/retry-list.md",
@@ -204,7 +188,6 @@
     "algorithms/Problems/Arrays and Intervals/Monotonic Array/Fails.md",
     "algorithms/Problems/Arrays and Intervals/Monotonic Array",
     "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
-    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array",
     "algorithms/Problems/Arrays and Intervals",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",

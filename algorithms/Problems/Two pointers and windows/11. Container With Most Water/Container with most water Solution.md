@@ -61,22 +61,42 @@ result: 10
 ## Time Complexity
 ___
 **O(n)** 
-Because we just walk over
+Because we just walk over our array with two pointers.
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(n)**
+Because the only memory we use is just storing the max area.
 
 ## My Code:
 ___
 ```go
-
+func maxArea(hight []int) int {
+    l := 0
+    r := len(hight) - 1
+    maxResult := 0
+    for l < r {
+        left := hight[l]
+        right := hight[r]
+        dist := r - l
+        newArea := min(left, right) * dist
+        maxResult = max(maxResult, newArea)
+        if left == right {
+            l++
+            r--
+        } else if left < right {
+            l++
+        } else if left > right {
+            r--
+        }
+    }
+    return maxResult
+}
 
 ```
 
 > [!Attention]
-> - 
+> - N
 
 
 ## Example solution:

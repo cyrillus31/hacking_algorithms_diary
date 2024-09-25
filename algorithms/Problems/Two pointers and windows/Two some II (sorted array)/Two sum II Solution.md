@@ -59,12 +59,12 @@ ___
 ## Time Complexity
 ___
 **O(n)** 
-Because we walk over the whole array
+Because we walk over the whole array one time.
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(1)**
+Because we don't use any additional memory.
 
 ## My Code:
 ___
@@ -90,7 +90,7 @@ func twoSum(numbers []int, target int) []int {
 
 ```
 
-> [!Attention]-
+> [!Attention]
 > -  Don't forget to return in any case. Compiler doesn't know that there will be solution.
 
 
@@ -99,6 +99,29 @@ ___
 [Video](VIDEO_LINK)
 
 ```go
+func twoSum(nums []int, target int) []int {
+	l := 0
+	r := len(nums) - 1
 
+	for l < r {
+		currSum := nums[l] + nums[r]
+		// если текущая сумма равна target
+		// -> возвращаем индексы пары чисел
+		if currSum == target {
+			return []int{l + 1, r + 1}
+		}
+		// если текущая сумма больше target
+		// -> сдвигаем правый указатель чтобы уменьшить общую сумму
+		if currSum > target {
+			r -= 1
+		}
+		// если текущая сумма больше target
+		// -> сдвигаем левый указатель чтобы увеличить общую сумму
+		if currSum < target {
+			l += 1
+		}
+	}
 
+	return []int{-1, -1}
+}
 ```

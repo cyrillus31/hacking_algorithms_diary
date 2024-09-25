@@ -25,7 +25,7 @@ func twoSum(numbers []int, target int) []int {
 **PROBLEM:** Input \[2,7,11,15] Return: \[]
 That could only mean that right == target condition is never triggered. How could that be?
 
-**SOLUTION:** The 
+**SOLUTION:** The condition was comparing `right` with `target` instead of `want`.
 
 
 

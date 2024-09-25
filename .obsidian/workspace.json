@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md"
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,9 @@
   },
   "active": "7daa314b9a088a3e",
   "lastOpenFiles": [
+    "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
     "tmpl/TEMPLATE_Solution.md",
-    "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
     "2024-09-25.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview.md"
+                "file": "tmpl/TEMPLATE_Solution.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

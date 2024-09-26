@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmpl/TEMPLATE_Solution.md",
+                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmpl/TEMPLATE_Solution.md",
+                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmpl/TEMPLATE_Solution.md"
+                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmpl/TEMPLATE_Solution.md",
+                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +156,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc411ccd0289b297",
+  "active": "4eff723a06d99e7e",
   "lastOpenFiles": [
-    "Interview.md",
     "tmpl/TEMPLATE_Solution.md",
+    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+    "algorithms/Problems/Two pointers and windows/283. Move zeroes",
+    "Interview.md",
     "algorithms/Problems/Two pointers and windows/11. Container With Most Water/Container with most water Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
     "algorithms/Problems/Two pointers and windows/11. Container With Most Water",
@@ -192,8 +194,6 @@
     "algorithms/Problems/Arrays and Intervals/Range Sum Query/YandexCode.md",
     "algorithms/Problems/Arrays and Intervals/Range Sum Query",
     "algorithms/Problems/Arrays and Intervals/Maximum Products of two elements in array/Maximum Products of 2 Elements in Array Solution.md",
-    "algorithms/Problems/Arrays and Intervals/Monotonic Array/Monotonic Array Solution.md",
-    "algorithms/Problems/Arrays and Intervals/Monotonic Array",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "Pasted image 20240914135305.png"
   ]

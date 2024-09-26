@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+                "file": "Впоросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,8 @@
   },
   "active": "4eff723a06d99e7e",
   "lastOpenFiles": [
-    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes",
     "Interview.md",
     "algorithms/Problems/Two pointers and windows/11. Container With Most Water/Container with most water Solution.md",

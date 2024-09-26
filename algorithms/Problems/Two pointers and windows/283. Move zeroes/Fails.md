@@ -1,4 +1,6 @@
 #fails 
+#two-pointers 
+#fast-and-slow-pointers
 ## First try
 ___
 ```go

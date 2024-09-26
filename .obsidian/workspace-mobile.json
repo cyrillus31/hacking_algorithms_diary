@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
+            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md"
+            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md"
           }
         }
       },
@@ -156,6 +156,7 @@
   "active": "fe1da2aba253814e",
   "lastOpenFiles": [
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
+    "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
     "algorithms/Problems/Two pointers and windows/11. Container With Most Water/Container with most water Solution.md",
     "/Впоросы.md",
@@ -188,7 +189,6 @@
     "/algorithms/Problems/Two pointers and windows/Is Valid Palindrome",
     "Впоросы.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Squares of a Sorted Array.md",
-    "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Fails.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array",
     "algorithms/Problems/Two pointers and windows",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",

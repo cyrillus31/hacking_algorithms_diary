@@ -81,7 +81,7 @@ func moveZeroes(nums []int) {
 ```
 
 > [!Attention]
-> -  You just have to check if the faster pointer points to zero or not. If not - swap. Seems counterintueti
+> -  You just have to check if the faster pointer points to zero or not. If not - swap. Seems counter-intuitive but you have to think about it.
 
 
 ## Example solution:

@@ -68,25 +68,24 @@ ___
 
 
 
-## Solution Idea
-___
-Get two pointers. If numbers ar
+## Solution Idea ___
+Get two pointers. If numbers are equal - move both pointers. If one is smaller - move that pointer.
 
 ## Special Test Cases
 ___
 ```
-
+xxx
 ```
 
 ## Time Complexity
 ___
-**O(?)** 
-Because
+**O(n)** - where n is the amount of elements in both arrays.
+Because we walk over both arrays.
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(n)**
+Because at the end we will store an 
 
 ## My Code:
 ___

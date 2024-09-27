@@ -64,12 +64,24 @@ Because
 ## My Code:
 ___
 ```go
-
-
+func moveZeroes(nums []int) {
+    slow := 0
+    fast := -1
+    for fast < len(nums) - 1 {
+        // move fast pointer on every iteration
+        fast++
+        right := nums[fast]
+        // move slow pointer when switch WAS done
+        if right != 0 {
+            nums[slow], nums[fast] = nums[fast], nums[slow]
+            slow++
+        }
+    }
+}
 ```
 
 > [!Attention]
-> - 
+> -  You just have to check if the faster pointer points to zero or not. If not - swap. Seems counterintueti
 
 
 ## Example solution:

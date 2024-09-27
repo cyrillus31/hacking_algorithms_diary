@@ -6,7 +6,7 @@ func intersect(A []int , B []int )  ([]int) {
     aPointer := 0
     bPointer := 0
     result := []int{}
-    for aPointer < len(A) || bPointer < len(B) {
+    for aPointer < len(A) && bPointer < len(B) {
         aElem := A[aPointer]
         bElem := B[bPointer]
         if aElem == bElem {
@@ -22,7 +22,7 @@ func intersect(A []int , B []int )  ([]int) {
 }
 ```
 
-**PROBLEM:**
+**PROBLEM:** Index out of range \[9] with length 9
 
 **SOLUTION:**
 

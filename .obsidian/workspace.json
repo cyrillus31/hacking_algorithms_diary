@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c06ba6f9433ca5d",
+        "id": "fffe198f57e9412c",
         "type": "tabs",
         "children": [
           {
-            "id": "3da5969d2f7e0e10",
+            "id": "df3d0de0127e03e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmpl/TEMPLATE_Fails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d206b5002c46b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmpl/TEMPLATE_Fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tmpl/TEMPLATE_Fails.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmpl/TEMPLATE_Fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,14 +148,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3da5969d2f7e0e10",
+  "active": "df3d0de0127e03e6",
   "lastOpenFiles": [
-    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
+    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+    "tmpl/TEMPLATE_Fails.md",
+    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
-    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
     "Впоросы.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes",
     "Interview.md",
@@ -187,7 +168,6 @@
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Is Valid Palindrome Solution.md",
-    "tmpl/TEMPLATE_Fails.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome",

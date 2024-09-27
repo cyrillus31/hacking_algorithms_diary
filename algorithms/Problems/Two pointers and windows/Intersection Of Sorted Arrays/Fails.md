@@ -1,4 +1,6 @@
 #fails 
+#two-pointers 
+#pointer-to-each
 ## First try
 ___
 ```go

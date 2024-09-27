@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md"
+                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
+                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +170,9 @@
   },
   "active": "3da5969d2f7e0e10",
   "lastOpenFiles": [
-    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
+    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
+    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
     "Впоросы.md",
@@ -203,7 +204,6 @@
     "Untitled.md",
     "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
     "algorithms/Problems/Arrays and Intervals/Find pivot index/Find pivot index Solution.md",
-    "algorithms/Problems/Arrays and Intervals/Range Sum Query/Range Sum Query Solution.md",
     "algorithms/Problems/Arrays and Intervals/Find pivot index",
     "tmpl",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",

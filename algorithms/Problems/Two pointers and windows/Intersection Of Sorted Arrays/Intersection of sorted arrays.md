@@ -79,13 +79,13 @@ xxx
 
 ## Time Complexity
 ___
-**O(n)** - where n is the amount of elements in both arrays.
+**O(m+n)** - where n is the amount of elements in both arrays.
 Because we walk over both arrays.
 
 ## Space Complexity
 ___
-**O(n)**
-Because at the end we will store an 
+**O(min(m, n))**
+Because at the end we will store an array of size of the smaller of the input arrays.
 
 ## My Code:
 ___

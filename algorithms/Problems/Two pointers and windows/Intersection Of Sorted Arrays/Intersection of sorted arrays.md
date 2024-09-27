@@ -68,7 +68,7 @@ ___
 
 
 
-## Solution Idea ___
+## Solution Idea
 Get two pointers. If numbers are equal - move both pointers. If one is smaller - move that pointer.
 
 ## Special Test Cases
@@ -122,9 +122,30 @@ func intersect(A []int , B []int )  ([]int) {
 
 ## Example solution:
 ___
-[Video](VIDEO_LINK)
+[Video](https://kinescope.io/sKeBVfQQTfrdxkS1VPYrdd)
 
 ```go
-
+// time: O(n + m)
+// mem: O(min(n, m))
+func intersect(A []int, B []int) []int {
+	p1 := 0
+	p2 := 0
+	res := []int{}
+	// т к мы можем иметь дубликаты то на каждой итерации сравниваем на
+	// равестно и если равны двигаем оба указателя и прибавляем ответ
+	// иначе двигаем указатель который указывает на меньшее значение
+	for p1 < len(A) && p2 < len(B) {
+		if A[p1] > B[p2] {
+			p2 += 1
+		} else if A[p1] < B[p2] {
+			p1 += 1
+		} else {
+			res = append(res, A[p1])
+			p1 += 1
+			p2 += 1
+		}
+	}
+	return res
+}
 
 ```

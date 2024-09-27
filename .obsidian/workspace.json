@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
+                "file": "tmpl/TEMPLATE_Fails.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
+                "file": "tmpl/TEMPLATE_Fails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md"
+                "file": "tmpl/TEMPLATE_Fails.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
+                "file": "tmpl/TEMPLATE_Fails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,13 +170,13 @@
   },
   "active": "3da5969d2f7e0e10",
   "lastOpenFiles": [
-    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
+    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
+    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
     "Впоросы.md",
-    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes",
     "Interview.md",
     "algorithms/Problems/Two pointers and windows/11. Container With Most Water/Container with most water Solution.md",

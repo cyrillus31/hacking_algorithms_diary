@@ -90,12 +90,34 @@ Because at the end we will store an array of size of the smaller of the input ar
 ## My Code:
 ___
 ```go
-
-
+/**
+ * @input A : Integer array
+ * @input B : Integer array
+ * 
+ * @Output Integer array.
+ */
+func intersect(A []int , B []int )  ([]int) {
+    aPointer := 0
+    bPointer := 0
+    result := []int{}
+    for aPointer < len(A) && bPointer < len(B) {
+        aElem := A[aPointer]
+        bElem := B[bPointer]
+        if aElem == bElem {
+            aPointer, bPointer = aPointer + 1, bPointer + 1
+            result = append(result, aElem)
+        } else if aElem < bElem {
+            aPointer++
+        } else {
+            bPointer++
+        }
+    }
+    return result
+}
 ```
 
 > [!Attention]
-> - 
+> -  Condition in the loop should be for BOTH POINTERS AT THE SAME TIME (therefor AND not ~~OR~~)
 
 
 ## Example solution:

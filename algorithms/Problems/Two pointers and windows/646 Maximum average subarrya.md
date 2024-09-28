@@ -2,9 +2,10 @@
 ## First try
 ___
 ```go
-func findMaxAvarage(nums []int) floating {
-	
-
+func findMaxAvarage(nums []int) float32 {
+	firstSum := 0
+	for _, num := range nums {
+	}
 }
 
 

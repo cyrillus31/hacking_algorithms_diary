@@ -71,8 +71,6 @@ ___
 
 > [!Attention]
 > - 
-
-
 ## Example solution:
 ___
 [Video](VIDEO_LINK)

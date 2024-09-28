@@ -60,7 +60,7 @@ Because we just walk over the array one time.
 ## Space Complexity
 ___
 **O(1)**
-Because we don't any memory but to store
+Because we don't any memory save the storing of the maxSum and curSum
 
 ## My Code:
 ___

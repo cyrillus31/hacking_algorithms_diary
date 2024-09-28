@@ -11,8 +11,12 @@
             "id": "df3d0de0127e03e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Плавающие окна.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Плавающие окна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Плавающие окна.md"
+              }
             }
           },
           {
@@ -125,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Плавающие окна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

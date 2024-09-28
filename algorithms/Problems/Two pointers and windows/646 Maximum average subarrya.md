@@ -2,7 +2,7 @@
 ## First try
 ___
 ```go
-func findMaxAvarage(nums []int) int {
+func findMaxAvarage(nums []int) floating {
 	
 
 }

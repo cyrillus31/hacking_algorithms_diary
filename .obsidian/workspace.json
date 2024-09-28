@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya.md",
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarray.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya.md",
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya.md"
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarray.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya.md",
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
   "active": "df3d0de0127e03e6",
   "lastOpenFiles": [
     "Плавающие окна.md",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya.md",
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",

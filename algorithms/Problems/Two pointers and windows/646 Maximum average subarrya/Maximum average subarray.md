@@ -44,7 +44,7 @@ You are given an integer array nums consisting of n elements, and an integer k.
 
 ## Solution Idea
 ___
-Calculate the sum for the first array of length `k`. Remember it as maximum. 
+Calculate the sum for the first array of length `k`. Remember it as maximum. Then move the window to the right and calculate maximums for each next window. Calculating the sum for the next window is simpler if you take the previous array and remove the first element and push the next ele
 
 
 ## Special Test Cases

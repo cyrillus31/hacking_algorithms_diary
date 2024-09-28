@@ -44,20 +44,19 @@ You are given an integer array nums consisting of n elements, and an integer k.
 
 ## Solution Idea
 ___
-Calculate the sum for the first array of length `k`. Remember it as maximum. Then move the window to the right and calculate maximums for each next window. Calculating the sum for the next window is simpler if you take the previous array and remove the first element and push the next ele
-
-
+Calculate the sum for the first array of length `k`. Remember it as maximum. Then move the window to the right and calculate maximums for each next window. Calculating the sum for the next window is simpler if you take the previous array and remove the first element and push the next element to the right of the array.
 ## Special Test Cases
 ___
 ```
-
+[0,4,0,3,2]
+k = 1
+result = 4
 ```
 
 ## Time Complexity
 ___
-**O(?)** 
-Because
-
+**O(n)** 
+Because we just walk over the array one time.
 ## Space Complexity
 ___
 **O(?)**

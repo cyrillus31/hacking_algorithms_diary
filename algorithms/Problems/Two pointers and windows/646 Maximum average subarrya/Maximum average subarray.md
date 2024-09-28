@@ -55,11 +55,11 @@ result = 4
 
 ## Time Complexity
 ___
-**O(n)** 
+**O(n)**  or to be more precise O(k(n-k))
 Because we just walk over the array one time.
 ## Space Complexity
 ___
-**O(?)**
+**O(1)**
 Because
 
 ## My Code:

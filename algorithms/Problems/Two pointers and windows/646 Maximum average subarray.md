@@ -17,10 +17,9 @@ func findMaxAverage(nums []int, k int) float64 {
     }
     return float64(maxSum) / float64(k)
 }
-
 ```
 
-**PROBLEM:** 
+**PROBLEM:**  `r` goes out of bounds since r+1 can be bigger than len(nums)
 
 **SOLUTION:**
 

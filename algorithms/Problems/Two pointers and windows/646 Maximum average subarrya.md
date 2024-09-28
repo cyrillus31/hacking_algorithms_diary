@@ -2,7 +2,10 @@
 ## First try
 ___
 ```go
+func findMaxAvarage(nums []int) int {
+	
 
+}
 
 
 

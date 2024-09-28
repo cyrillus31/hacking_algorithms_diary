@@ -1,7 +1,6 @@
 #fails 
 #two-pointers 
-#windows
-#sliding-window
+#windows #sliding-window
 ## First try
 ___
 ```go

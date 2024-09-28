@@ -44,5 +44,5 @@ func findMaxAverage(nums []int, k int) float64 {
 }
 ```
 
-**PROBLEM:**  Wrong Answer:
-**SOLUTION:** limit the loop to `r < len(nums) - 1`
+**PROBLEM:**  Wrong Answer: `[0,3,0,3,2]` the result returned is 7.0 when it was supposed to be 4.0. 
+**SOLUTION:** 

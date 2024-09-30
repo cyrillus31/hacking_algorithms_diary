@@ -74,8 +74,26 @@ func search(nums []int, target int) int {
 ```
 
 > [!Attention]
-> - 
+> - Beware of the condition of the loop. If you don't check the `nums[m] == target` on every step - you have 
 
+```python
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        def is_good(value: int) -> bool:
+            return value <= target
+
+        l = 0
+        r = len(nums)
+        while l < r - 1:
+            m = (l + r) // 2
+            if is_good(nums[m]):
+                l = m
+            else:
+                r = m
+        if nums[l] == target:
+            return l
+        return -1
+```
 
 ## Example solution:
 ___

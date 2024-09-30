@@ -84,8 +84,27 @@ func findMaxAverage(nums []int, k int) float64 {
 }
 ```
 
+```Python
+# First solution but in python
+class Solution:
+    def findMaxAverage(self, nums: list[int], k: int) -> float:
+        max_sum = sum(nums[0:k])
+        l = 0
+        r = k - 1
+        prev_sum = max_sum
+        l += 1
+        r += 1
+        while r < len(nums):
+            prev_sum = prev_sum - nums[l-1] + nums[r]
+            max_sum = max(max_sum, prev_sum)
+            l += 1
+            r += 1
+        return max_sum / k
+
+```
+
 > [!Attention]
-> - 
+> -  Make sure that while using golang you don't create a loop-scoped variable prevSum instead of using 'global' prevSum!
 ## Example solution:
 ___
 [Video](VIDEO_LINK)

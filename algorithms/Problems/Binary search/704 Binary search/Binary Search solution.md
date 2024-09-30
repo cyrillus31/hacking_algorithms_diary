@@ -32,6 +32,7 @@ nums is sorted in ascending order.
 ## Solution Idea
 ___
 Divide our array into two parts. One which suffices a condition `<= target` and the other that doesn't.
+Pick a middle index. If the element in middle index satisfies the condition - move left pointer.   
 
 ## Special Test Cases
 ___

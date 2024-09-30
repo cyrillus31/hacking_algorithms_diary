@@ -73,4 +73,4 @@ func findMaxAverage(nums []int, k int) float64 {
 ```
 
 **PROBLEM:**  result calculated incorrectly due to newSum variable being recreated on each loop iteration.
-**SOLUTION:** Don't use variable declaration
+**SOLUTION:** _Don't use variable declaration `:=` inside the loop! Use just plain assignment =._

@@ -44,12 +44,12 @@ ___
 ## Time Complexity
 ___
 **O(log(n))** 
-Because we do a binary search. How many times can we divide 8 in half and then divide that half in half?
+Because we do a binary search. How many times can we divide 8 in half and then divide that half in half? Three times. And log(8) is 3.
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(1)**
+Because we use constant space.
 
 ## My Code:
 ___

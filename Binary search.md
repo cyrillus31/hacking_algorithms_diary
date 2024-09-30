@@ -6,3 +6,6 @@ Result of binary search is always TWO pointers.
 
 
 You can compare which number is closer to some other constanta is by using modulo operator:
+13 % 10 = 3
+
+9 % 10 = 9

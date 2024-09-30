@@ -105,6 +105,22 @@ class Solution:
 
 ```go
 // Second solution. Move pointers inside the loop always
+func findMaxAverage(nums []int, k int) float64 {
+    maxSum := 0
+    for _, num := range nums[0:k] {
+        maxSum = maxSum + num
+    }
+    l := 0
+    r := k - 1
+    curSum := maxSum
+    for r < (len(nums) - 1) {
+        curSum = curSum - nums[l] + nums[r+1] // BEWA
+        maxSum = max(curSum, maxSum)
+        l++
+        r++
+    }
+    return float64(maxSum) / float64(k)
+}
 ```
 
 > [!Attention]

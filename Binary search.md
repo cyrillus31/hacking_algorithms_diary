@@ -5,4 +5,4 @@ Result of binary search is always TWO pointers.
 `m = l + (r - l)/2 = (r + l) / 2`
 
 
-You can compare 
+You can compare which number is closer to some other constanta is by using modulo operatos:

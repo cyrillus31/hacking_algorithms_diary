@@ -12,7 +12,7 @@ func findMaxAverage(nums []int, k int) float64 {
     l := 0
     r := k - 1
     for r < len(nums) {
-        newSum := maxSum - nums[l] + nums[r+1]
+        newSum := maxSum - nums[l] + nums[r+1]  // !PROBLEM: don't create a new newSum variable! It is possible in Go without compile error, so be careful!
         maxSum = max(newSum, maxSum)
         l++
         r++

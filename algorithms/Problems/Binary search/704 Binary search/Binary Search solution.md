@@ -31,7 +31,7 @@ nums is sorted in ascending order.
 
 ## Solution Idea
 ___
-
+Divide our array into two parts. One which suffices a condition `<= target` and the other that doesn't.
 
 ## Special Test Cases
 ___

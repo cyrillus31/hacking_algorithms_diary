@@ -54,7 +54,22 @@ Because we use constant space.
 ## My Code:
 ___
 ```go
-
+func search(nums []int, target int) int {
+    result := -1
+    l := 0
+    r := len(nums)
+    for l < r {
+        m := (l + r) / 2
+        if nums[m] == target {
+            return m
+        } else if nums[m] < target {
+            l = m + 1
+        } else {
+            r = m
+        }
+    }
+    return result
+}
 
 ```
 
@@ -67,6 +82,30 @@ ___
 [Video](VIDEO_LINK)
 
 ```go
+// time: O(log n)
+// mem:  O(1)
+func search(nums []int, target int) int {
+	// ответ будет находится в элементе указывающим на l
+	// поэтому сдвигаем r на 1 вправо, чтобы l мог принимать
+	// значения [0, len(nums) - 1] т е от первого и до последнего
+	// индекса включительно
+	l, r := 0, len(nums)
+	for r-l > 1 {
+		m := (l + r) / 2
+		if good(nums[m], target) {
+			l = m
+		} else {
+			r = m
+		}
+	}
+	if nums[l] == target {
+		return l
+	}
+	return -1
+}
 
+func good(val, target int) bool {
+	return val <= target
+}
 
 ```

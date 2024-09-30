@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked list.md",
+                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked list.md",
+                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked list.md"
+                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked list.md",
+                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +183,11 @@
   },
   "active": "65da0a13794396b9",
   "lastOpenFiles": [
-    "Binary search.md",
     "Linked list.md",
+    "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
+    "algorithms/Problems/Binary search/704 Binary search",
+    "algorithms/Problems/Binary search",
+    "Binary search.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Fails.md",
     "tmpl/TEMPLATE_Fails.md",
@@ -216,9 +219,6 @@
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array",
     "algorithms/Problems/Two pointers and windows",
     "Фильтр Блюма.md",
-    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/560 Subarray Sum Equals K.md",
-    "algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K",
-    "algorithms/Problems/Arrays and Intervals/Find pivot index",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "Pasted image 20240914135305.png"
   ]

@@ -103,8 +103,13 @@ class Solution:
 
 ```
 
+```go
+// Second solution. Move pointers inside the loop always
+```
+
 > [!Attention]
-> -  Make sure that while using golang you don't create a loop-scoped variable prevSum instead of using 'global' prevSum!
+> -  Make sure that while using golang you don't create a loop-scoped variable prevSum instead of using 'global' prevSum!!! That's the most important tip.
+
 ## Example solution:
 ___
 [Video](VIDEO_LINK)

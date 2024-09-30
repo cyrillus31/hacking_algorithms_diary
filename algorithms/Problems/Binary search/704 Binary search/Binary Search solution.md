@@ -74,7 +74,7 @@ func search(nums []int, target int) int {
 ```
 
 > [!Attention]
-> - Beware of the condition of the loop. If you don't check the `nums[m] == target` on every step - you have 
+> - Beware of the condition of the loop. If you don't check the `nums[m] == target` on every step - you have stop exactly when pointers are next to each other. (why?)
 
 ```python
 class Solution:

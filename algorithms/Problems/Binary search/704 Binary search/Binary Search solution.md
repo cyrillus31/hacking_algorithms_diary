@@ -32,7 +32,8 @@ nums is sorted in ascending order.
 ## Solution Idea
 ___
 Divide our array into two parts. One which suffices a condition `<= target` and the other that doesn't. Pick a left pointer inside the array. Pick a right pointer outside the array so that a left pointer can potentially find the result.
-Pick a middle index. If the element in middle index satisfies the condition - move left pointer to `m`. If it doesn't - move the right pointer to `m`.
+Pick a middle index. If an element at the middle index satisfies the condition - move left pointer to `m`. If it doesn't - move the right pointer to `m`. Do it until `l < r`.
+Since in our condition we decided that our left pointer can potent
 
 ## Special Test Cases
 ___

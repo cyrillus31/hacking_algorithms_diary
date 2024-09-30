@@ -3,3 +3,6 @@ We can use binary search when we can divide the array into 'bad' and 'good' valu
 Result of binary search is always TWO pointers.
 
 `m = l + (r - l)/2 = (r + l) / 2`
+
+
+You can compare 

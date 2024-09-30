@@ -72,5 +72,5 @@ func findMaxAverage(nums []int, k int) float64 {
 }
 ```
 
-**PROBLEM:**  `r` goes out of bounds since `r+1` can be bigger than `len(nums)`
-**SOLUTION:** limit the loop to `r < len(nums) - 1`
+**PROBLEM:**  result calculated incorrectly due to newSum variable being recreated on each loop iteration.
+**SOLUTION:** Don't use variable declaration

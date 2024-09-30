@@ -114,7 +114,7 @@ func findMaxAverage(nums []int, k int) float64 {
     r := k - 1
     curSum := maxSum
     for r < (len(nums) - 1) {
-        curSum = curSum - nums[l] + nums[r+1] // BEWA
+        curSum = curSum - nums[l] + nums[r+1] // BEWARE NOT TO USE := HERE
         maxSum = max(curSum, maxSum)
         l++
         r++

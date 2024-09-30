@@ -65,8 +65,23 @@ Because we don't any memory save the storing of the maxSum and curSum
 ## My Code:
 ___
 ```go
-
-
+# First solution. First move pointers outside the loop.
+func findMaxAverage(nums []int, k int) float64 {
+    maxSum := 0
+    for _, num := range nums[0:k] {
+        maxSum = maxSum + num
+    }
+    prevSum := maxSum
+    l := 1
+    r := k
+    for r < len(nums) {
+        prevSum = prevSum - nums[l-1] + nums[r]
+        maxSum = max(maxSum, prevSum)
+        l++
+        r++
+    }
+    return float64(maxSum) / float64(k)
+}
 ```
 
 > [!Attention]

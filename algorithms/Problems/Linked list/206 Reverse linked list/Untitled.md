@@ -59,7 +59,7 @@ func reverseList(head *ListNode) *ListNode {
 
 **PROBLEM:** invalid memory address or nil pointer dereference (in the line rightNode.Next = midNode), probably.
 
-**SOLUTION:** 
+**SOLUTION:** it's bad because we never chekc
 
 
 

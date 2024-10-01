@@ -5,6 +5,7 @@ ___
 ```go
 func searchRange(nums []int, target int) []int {
     result := []int{-1, -1}
+	// !PROBLEM don't account for edge case: if len(nums) == 0 {return result}
     l := -1
     r := len(nums) - 1
     for l < r - 1 {
@@ -36,9 +37,9 @@ func searchRange(nums []int, target int) []int {
 }
 ```
 
-**PROBLEM:**
+**PROBLEM:** with input array length equal to zero
 
-**SOLUTION:**
+**SOLUTION:** just add an edge case
 
 
 

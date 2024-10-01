@@ -33,6 +33,9 @@ Given the `head` of a singly linked list, reverse the list, and return _the r
 
 ## Solution Idea
 ___
+![[linkedlist.png]]
+
+
 
 ## Special Test Cases
 ___

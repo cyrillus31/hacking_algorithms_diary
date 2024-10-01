@@ -24,7 +24,7 @@ func reverseList(head *ListNode) *ListNode {
 }
 ```
 
-**PROBLEM:** use of untyped nil in assignment + n
+**PROBLEM:** use of untyped nil in assignment + non-boolean condition in for statement
 
 **SOLUTION:**
 

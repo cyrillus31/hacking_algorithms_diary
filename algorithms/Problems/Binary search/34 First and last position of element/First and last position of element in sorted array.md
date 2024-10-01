@@ -103,7 +103,8 @@ func searchRange(nums []int, target int) []int {
 
 > [!Attention]
 > -  Don't forget to process edge case where `nums` length is zero!!!
-> - Beware which pointer will have the 
+> - Beware which pointer will have the answer. 
+> -  Beware that the pointer that is going to have the answer should be able to walk over the whole array (start included). The other pointer shall start outside the array.
 
 
 ## Example solution:

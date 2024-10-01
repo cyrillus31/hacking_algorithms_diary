@@ -34,8 +34,11 @@ Given the `head` of a singly linked list, reverse the list, and return _the r
 ## Solution Idea
 ___
 ![[linkedlist.png]]
-
-
+right points to current element
+left points to previous element (nil if not created)
+tmp moves onto right
+right moves to right.next
+use tmp to change the linked list
 
 ## Special Test Cases
 ___

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
+                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
+                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/Fails.md"
+                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
+                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +183,9 @@
   },
   "active": "65da0a13794396b9",
   "lastOpenFiles": [
-    "Впоросы.md",
     "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
+    "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
+    "Впоросы.md",
     "algorithms/Problems/Binary search/34 First and last position of element",
     "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
     "Linked list.md",
@@ -217,7 +218,6 @@
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome",
     "To know at the top of your head.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Squares of a Sorted Array.md",
-    "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array/Fails.md",
     "algorithms/Problems/Two pointers and windows/Squares of a Sorted Array",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "Pasted image 20240914135305.png"

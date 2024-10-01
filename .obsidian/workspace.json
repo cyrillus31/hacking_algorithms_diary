@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
+                "file": "Впоросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +183,8 @@
   },
   "active": "65da0a13794396b9",
   "lastOpenFiles": [
-    "Linked list.md",
     "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
+    "Linked list.md",
     "algorithms/Problems/Binary search/704 Binary search",
     "algorithms/Problems/Binary search",
     "Binary search.md",

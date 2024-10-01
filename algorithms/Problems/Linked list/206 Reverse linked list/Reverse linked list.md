@@ -33,7 +33,6 @@ Given the `head` of a singly linked list, reverse the list, and return _the r
 
 ## Solution Idea
 ___
-Check for all edge cases first!!
 
 ## Special Test Cases
 ___
@@ -55,7 +54,30 @@ ___
 Because we don't use any additional memory
 ## My Code:
 ___
-#### N
+
+## My cleanest solution
+
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func reverseList(head *ListNode) *ListNode {
+    var left *ListNode
+    right := head
+    for right != nil {
+        tmp := right
+        right = right.Next
+        tmp.Next = left
+        left = tmp
+    }
+    return left
+}
+```
+#### Dumb solution
 ```go
 /**
  * Definition for singly-linked list.

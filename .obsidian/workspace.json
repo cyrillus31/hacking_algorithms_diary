@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md"
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
+                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

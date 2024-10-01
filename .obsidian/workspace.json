@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4746dfc17bc1bb82",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
     "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
     "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",

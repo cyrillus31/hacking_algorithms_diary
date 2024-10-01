@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65da0a13794396b9",
+  "active": "4746dfc17bc1bb82",
   "lastOpenFiles": [
     "linkedlist.png",
     "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",

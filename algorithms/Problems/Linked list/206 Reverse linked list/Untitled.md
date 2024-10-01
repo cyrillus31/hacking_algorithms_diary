@@ -57,4 +57,14 @@ func reverseList(head *ListNode) *ListNode {
 
 ```
 
-**Explanation:**
+**PROBLEM:** invalid memory address or nil pointer dereferenc
+
+**SOLUTION:** use comparison to `nil`, I think. And also declare nil type for the first `leftNode`
+
+
+
+
+
+
+
+

@@ -51,18 +51,19 @@ Just do a regular binary with two pointers but keep in mind which pointer will h
 ## Special Test Cases
 ___
 ```
-
+[] //  VERY IMPORTANT TEST CASE!
+(-1, -1)
 ```
 
 ## Time Complexity
 ___
-**O(?)** 
-Because
+**O(log(n))** 
+Because just binary search twice
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(1)**
+Because just binary search twice
 
 ## My Code:
 ___

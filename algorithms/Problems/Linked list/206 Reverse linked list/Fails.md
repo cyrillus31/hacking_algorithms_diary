@@ -1,4 +1,5 @@
 #fails 
+#linked-list
 ## First try
 ___
 ```go
@@ -44,7 +45,7 @@ func reverseList(head *ListNode) *ListNode {
     var leftNode *ListNode = nil
     midNode := head
     rightNode := midNode.Next
-    for midNode.Next != nil {
+    for midNode.Next != nil {  // PROBLEM: it can hape so that midNode is nil. We never check it in the loop
         midNode.Next = leftNode
         leftNode = midNode
         midNode = rightNode
@@ -59,7 +60,7 @@ func reverseList(head *ListNode) *ListNode {
 
 **PROBLEM:** invalid memory address or nil pointer dereference (in the line rightNode.Next = midNode), probably.
 
-**SOLUTION:** it's bad because we never chekc
+**SOLUTION:** it's bad because we never check if midNode is nil
 
 
 

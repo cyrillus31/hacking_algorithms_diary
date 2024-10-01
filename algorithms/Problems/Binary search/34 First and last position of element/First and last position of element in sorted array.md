@@ -112,6 +112,52 @@ ___
 [Video](VIDEO_LINK)
 
 ```go
+func searchLastTarget(nums []int, target int) int {
+	// ответ будет находится в элементе указывающим на l
+	// поэтому сдвигаем r на 1 вправо, чтобы l мог принимать
+	// значения [0, len(nums) - 1] т е от первого и до последнего
+	// индекса включительно
+	l, r := 0, len(nums)
+	for r-l > 1 {
+		m := (l + r) / 2
+		if nums[m] <= target {
+			l = m
+		} else {
+			r = m
+		}
+	}
+	if nums[l] == target {
+		return l
+	}
+	return -1
+}
 
+func searchFirstTarget(nums []int, target int) int {
+	// ответ будет находится в элементе указывающим на r
+	// поэтому сдвигаем l на 1 влево, чтобы r мог принимать
+	// значения [0, len(nums) - 1] т е от первого и до последнего
+	// индекса включительно
+	l, r := -1, len(nums)-1
+	for r-l > 1 {
+		m := (l + r) / 2
+		if nums[m] < target {
+			l = m
+		} else {
+			r = m
+		}
+	}
+	if nums[r] == target {
+		return r
+	}
+	return -1
+}
 
+func searchRange(nums []int, target int) []int {
+	if len(nums) == 0 {
+		return []int{-1, -1}
+	}
+	l := searchFirstTarget(nums, target)
+	r := searchLastTarget(nums, target)
+	return []int{l, r}
+}
 ```

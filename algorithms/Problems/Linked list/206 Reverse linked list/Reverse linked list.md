@@ -38,22 +38,25 @@ Check for all edge cases first!!
 ## Special Test Cases
 ___
 ```
+Empty linked list
+
+Single value linked list
 
 ```
 
 ## Time Complexity
 ___
-**O(?)** 
-Because
+**O(n)** 
+Because it can not be faster
 
 ## Space Complexity
 ___
-**O(?)**
-Because
-
+**O(1)**
+Because we don't use any additional memory
 ## My Code:
 ___
 ```go
+
 
 
 ```

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df3d0de0127e03e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "821c110505ca566d",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,9 +173,10 @@
   "lastOpenFiles": [
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
+    "Binary search.md",
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
     "linkedlist.png",
     "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
     "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
@@ -201,7 +190,6 @@
     "Linked list.md",
     "algorithms/Problems/Binary search/704 Binary search",
     "algorithms/Problems/Binary search",
-    "Binary search.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Fails.md",
     "tmpl/TEMPLATE_Fails.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya",

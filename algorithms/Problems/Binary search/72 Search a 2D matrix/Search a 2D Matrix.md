@@ -62,6 +62,7 @@ ___
 ```go
 
 
+
 ```
 
 > [!Attention]
@@ -70,9 +71,33 @@ ___
 
 ## Example solution:
 ___
-[Video](VIDEO_LINK)
+[Video](https://kinescope.io/0GboubeRnaMB9Mmajrex4p)
 
 ```go
+// time: O(log (N * M))
+// mem:  O(1)
+func searchMatrix(matrix [][]int, target int) bool {
+	// чтобы работать с 2-D массивом как с 1-D
+	elementFromMatrix := func(i int) int {
+		n := len(matrix[0])
+		return matrix[i/n][i%n]
+	}
 
+	good := func(i int) bool {
+		return elementFromMatrix(i) <= target
+	}
+
+	// обычный бинарный поиск как для 1-D массива
+	l, r := 0, len(matrix)*len(matrix[0])
+	for r-l > 1 {
+		m := (l + r) / 2
+		if good(m) {
+			l = m
+		} else {
+			r = m
+		}
+	}
+	return elementFromMatrix(l) == target
+}
 
 ```

@@ -74,7 +74,6 @@ func searchMatrix(matrix [][]int, target int) bool {
     }
     row := up
     
-    fmt.Println("row is", row)
     // Search the row
     l := 0  // left pointer included
     r := len(matrix[row])  // right pointer excluded

@@ -22,7 +22,7 @@ func searchMatrix(matrix [][]int, target int) bool {
     r := len(matrix[row])  // right pointer excluded
     for r - l > 1 {
         m := (l + r) / 2
-        if matrix[row][l] <= target {
+        if matrix[row][l] <= target {  // !PROBLEM: use m pointer not l
             l = m
         } else {
             r = m

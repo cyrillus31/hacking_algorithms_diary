@@ -36,7 +36,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 **PROBLEM:** Time limit exceeded. Obviously we are stuck in an infinite loop here somehow.
 
-**SOLUTION:**
+**SOLUTION:** Beware which pointers you use there!
 
 
 

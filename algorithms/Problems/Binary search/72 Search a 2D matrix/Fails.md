@@ -36,7 +36,9 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 **PROBLEM:** Time limit exceeded. Obviously we are stuck in an infinite loop here somehow.
 
-**SOLUTION:** Beware which pointers you use where!
+**SOLUTION:** Beware which pointers you use where! 
+1) You are checking an element at m
+2) You are moving l or r pointers to m
 
 
 

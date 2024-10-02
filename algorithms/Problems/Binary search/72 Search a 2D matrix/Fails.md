@@ -10,9 +10,9 @@ func searchMatrix(matrix [][]int, target int) bool {
     for down - up > 1 {
         m := (up + down) / 2
         if matrix[m][0] <= target {
-            up = target
+            up = target // !PROBLEM: switch to m, not target!
         } else {
-            down = target
+            down = target // !PROBLEM: switch to m, not target!
         }
     }
     row := up
@@ -36,7 +36,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 **PROBLEM:** Time limit exceeded. Obviously we are stuck in an infinite loop here somehow.
 
-**SOLUTION:** Beware which pointers you use there!
+**SOLUTION:** Beware which pointers you use where!
 
 
 

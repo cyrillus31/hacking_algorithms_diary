@@ -1,4 +1,4 @@
-- [ ] Hash-tables:
+- [ ] Hash tables:
 	- [ ] [ ][[Isomorphic strings solution]]
 	- [ ] [[Top K frequent elements Solution]]
 	- [ ] [[Find prefix array Solution]]
@@ -9,11 +9,14 @@
 	- [ ] [[Monotonic Array Solution]]
 	- [ ] [[algorithms/Problems/Arrays and Intervals/Subarray Sum Equals K/Fails]]
 
-- [ ] Two-pointers:
+- [ ] Two pointers:
 	- [ ] [[Is Valid Palindrome Solution]]
 
 - [ ] Sliding window:
-	- [ ] [[Is Valid Palindrome Solution]]
+	- [ ] [[]]
 
+- [ ] Binary Search:
+	- [ ] [[]]
+	
 - [ ] Linked list:
 	- [ ] [[Reverse linked list]]

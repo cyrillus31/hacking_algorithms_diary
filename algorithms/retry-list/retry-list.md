@@ -12,3 +12,8 @@
 - [ ] Two-pointers:
 	- [ ] [[Is Valid Palindrome Solution]]
 
+- [ ] Sliding window:
+	- [ ] [[Is Valid Palindrome Solution]]
+
+- [ ] Linked list:
+	- [ ] [[Reverse linked list]]

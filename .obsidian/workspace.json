@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4746dfc17bc1bb82",
+  "active": "65da0a13794396b9",
   "lastOpenFiles": [
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
     "linkedlist.png",
     "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
     "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
     "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",
     "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",

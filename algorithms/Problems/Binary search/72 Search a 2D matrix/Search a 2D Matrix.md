@@ -22,7 +22,7 @@ Output: true
 
 Example 2:
 
-Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
+Input: matrix = \[[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
 Output: false
 
  
@@ -38,7 +38,8 @@ Constraints:
 
 ## Solution Idea
 ___
-
+1. Do a binary search over the first element of each row to find which row might include the target.
+2. Do a binary search over that row to find the target.
 
 ## Special Test Cases
 ___

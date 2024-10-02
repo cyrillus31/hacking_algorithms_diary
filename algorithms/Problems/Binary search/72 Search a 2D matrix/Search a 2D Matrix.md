@@ -54,7 +54,7 @@ Because we do a binary search over `n` elements. And then do a binary search ove
 
 ## Space Complexity
 ___
-**O(?)**
+**O(1)**
 Because
 
 ## My Code:

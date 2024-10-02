@@ -92,7 +92,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 > [!Attention]
 > Beware which pointers you use where! 
-> 1) On every iteration you are checking an element at m
+> 1) On every iteration you are comparing an element at m to target
 > 2) You are moving l or r pointers to m
 
 ## Example solution:

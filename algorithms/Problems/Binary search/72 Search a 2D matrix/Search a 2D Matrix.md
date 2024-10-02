@@ -49,8 +49,8 @@ ___
 
 ## Time Complexity
 ___
-**O(log(n) * log(m)) ** 
-Because
+**O(log(n) * log(m)) = log(n\*m)*** 
+Because we do a binary search over `n` elements. And then do a binary search over a row `m` elements.
 
 ## Space Complexity
 ___

@@ -49,20 +49,46 @@ ___
 
 ## Time Complexity
 ___
-**O(log(n) * log(m)) = log(n\*m)*** 
+**O(log(n) + log(m)) = log(n\*m)*** 
 Because we do a binary search over `n` elements. And then do a binary search over a row `m` elements.
 
 ## Space Complexity
 ___
 **O(1)**
-Because
+Because we don't use any additional memeory
 
 ## My Code:
 ___
 ```go
-
-
-
+func searchMatrix(matrix [][]int, target int) bool {
+    // First off search the rows by looking at the frist element
+    up := 0
+    down := len(matrix)
+    for (down - up) > 1 {
+        m := (up + down) / 2
+        if matrix[m][0] <= target {
+            up = m
+        } else {
+            down = m
+        }
+    }
+    row := up
+    
+    fmt.Println("row is", row)
+    // Search the row
+    l := 0  // left pointer included
+    r := len(matrix[row])  // right pointer excluded
+    for (r - l) > 1 {
+        m := (l + r) / 2
+        fmt.Println(m)
+        if matrix[row][m] <= target {
+            l = m
+        } else {
+            r = m
+        }
+    }
+    return matrix[row][l] == target
+}   
 ```
 
 > [!Attention]

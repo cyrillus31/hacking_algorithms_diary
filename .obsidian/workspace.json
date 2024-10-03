@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
+                "file": "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
+                "file": "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md"
+                "file": "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
+                "file": "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,15 +171,15 @@
   },
   "active": "65da0a13794396b9",
   "lastOpenFiles": [
-    "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
+    "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
+    "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
+    "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
     "Binary search.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
     "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "linkedlist.png",
-    "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
-    "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
     "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",

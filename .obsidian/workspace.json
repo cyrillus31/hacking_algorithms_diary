@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,9 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
-    "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "Binary search.md",
     "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",

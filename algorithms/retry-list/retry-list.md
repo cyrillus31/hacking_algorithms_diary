@@ -20,3 +20,4 @@
 	
 - [ ] Linked list:
 	- [ ] [[Reverse linked list]]
+	- [ ] [[Palindrome Linked List]]

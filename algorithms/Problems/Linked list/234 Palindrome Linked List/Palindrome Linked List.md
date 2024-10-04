@@ -52,6 +52,7 @@ Because we don't use any additional memeory.
 
 ## My Code:
 ___
+#### Not the best example!
 ```go
 func isPalindrome(head *ListNode) bool {
     if head == nil || head.Next == nil {
@@ -98,7 +99,7 @@ func isPalindrome(head *ListNode) bool {
 ```
 
 > [!Attention]
-> - 
+> -  THERE HAS TO BE A PRETTIER WAY
 
 
 ## Example solution:

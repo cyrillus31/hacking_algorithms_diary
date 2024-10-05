@@ -32,14 +32,11 @@ API  не должно содержать глаголов
 - Blue/Green: одна версия крутится в prod, а вторая на test контуре тестирутеся
 	vestion: blue
 	docker tag blue
-	
 
+ 
+ Load Balancer HAProxy && Nginx
 
-
-
-
-
-
+Os
 
 
 

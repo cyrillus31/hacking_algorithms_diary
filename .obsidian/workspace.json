@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33a6fd3afd571cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Впоросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System design.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System design.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System design.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1eeee66c827d6aa",
+  "active": "33a6fd3afd571cf7",
   "lastOpenFiles": [
+    "Notes.md",
+    "System design.md",
     "Pasted image 20241005135345.png",
     "Pasted image 20241005135027.png",
     "Pasted image 20241005134922.png",
@@ -181,9 +195,7 @@
     "Pasted image 20241005132717.png",
     "Pasted image 20241005132149.png",
     "Pasted image 20241005131337.png",
-    "Pasted image 20241005131320.png",
     "algorithms/retry-list/retry-list.md",
-    "System design.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "tmpl/TEMPLATE_Fails.md",

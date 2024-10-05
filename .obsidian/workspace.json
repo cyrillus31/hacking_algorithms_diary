@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1eeee66c827d6aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 200
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "System design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md"
+                "file": "System design.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "System design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd609f3e9c1d9afc",
+  "active": "d1eeee66c827d6aa",
   "lastOpenFiles": [
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/retry-list/retry-list.md",
+    "System design.md",
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
@@ -194,7 +208,6 @@
     "Interview.md",
     "algorithms/Problems/Two pointers and windows/11. Container With Most Water/Container with most water Solution.md",
     "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Two sum II Solution.md",
-    "algorithms/Problems/Two pointers and windows/Two some II (sorted array)/Fails.md",
     "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote_files/youtube.png",
     "Pasted image 20240914135305.png"
   ]

@@ -69,5 +69,13 @@ Replication
 Leader election алгоритм выбора реплики.
 
 ![[Pasted image 20241005132959.png]]
-
+reloationsl
+non-relational
+column-oriented
+blob/object strorage
+time-series
+graph database
+search engines
+key-value
+high-v
 

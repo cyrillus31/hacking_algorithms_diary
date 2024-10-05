@@ -105,6 +105,8 @@ Cache invalidation
 #### Kafka
 ![[Pasted image 20241005135027.png]]
 
+#### Как оценивается система с точки зрения бизнеса
+SLA
 
 
 

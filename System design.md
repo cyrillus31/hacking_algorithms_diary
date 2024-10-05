@@ -68,3 +68,6 @@ Replication
 ![[Pasted image 20241005132717.png]]
 Leader election алгоритм выбора реплики.
 
+![[Pasted image 20241005132959.png]]
+
+

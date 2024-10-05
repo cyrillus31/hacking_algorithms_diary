@@ -46,8 +46,12 @@ Open System Intercommunication Model
 Вариации termination/paththrew
 
 #### Масштабирование БД
-Зфк
-Шардирование
+Partitioning
+Sharding
+
+
+Replication
+
 
 
 

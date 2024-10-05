@@ -64,7 +64,8 @@ Replication
 
 #### HOT-STANDBY
 Если падает мастер, то реплика становится мастером.
-
+![[Pasted image 20241005132717.png]]
+Leader election алгоритм вы
 
 
 

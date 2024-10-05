@@ -94,6 +94,12 @@ high-availability key-value
 - Можем сначала писать в базу, а потмо в кэш
 Eviction (замещение) стратегии кэша: fifo, lifo, lru, mru, lfu ... 
 
+Cache invalidation
+![[Pasted image 20241005134823.png]]
+
+##### Event driven подход (очереди)
+- topic based
+- queue based
 
 
 

@@ -46,11 +46,14 @@ Open System Intercommunication Model
 Вариации termination/paththrew
 
 #### Масштабирование БД
-Partitioning
-Sharding
+Partitioning - в рамках одной БД
+Sharding - в рамках разных БД
 
-
+#### Обеспечение отказоустойчивости БД
 Replication
+
+
+Как будем реплицировать данные
 
 
 

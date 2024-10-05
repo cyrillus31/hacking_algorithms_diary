@@ -77,5 +77,15 @@ time-series
 graph database
 search engines
 key-value
-high-v
+high-availability key-value
+
+
+#### Для чего нужны поисковые движки?
+E
+
+
+
+
+
+
 

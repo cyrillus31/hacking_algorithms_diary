@@ -102,6 +102,8 @@ Cache invalidation
 - queue based
 ![[Pasted image 20241005134922.png]]
 
+#### Kafka
+![[Pasted image 20241005135027.png]]
 
 
 

@@ -100,6 +100,9 @@ Cache invalidation
 ##### Event driven подход (очереди)
 - topic based
 - queue based
+![[Pasted image 20241005134922.png]]
+
+
 
 
 

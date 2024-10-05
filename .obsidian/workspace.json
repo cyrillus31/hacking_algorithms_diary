@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 488.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -158,6 +158,8 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
+    "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
@@ -168,8 +170,7 @@
     "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Maximum average subarray.md",
-    "algorithms/retry-list/retry-list.md",
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Maximum average subarray.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "linkedlist.png",
     "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
@@ -182,8 +183,7 @@
     "Linked list.md",
     "algorithms/Problems/Binary search/704 Binary search",
     "algorithms/Problems/Binary search",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya/Fails.md",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarrya",
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
     "Плавающие окна.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",

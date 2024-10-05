@@ -13,7 +13,7 @@
 	- [ ] [[Is Valid Palindrome Solution]]
 
 - [ ] Sliding window:
-	- [ ] [[]]
+	- [ ] [[Maximum average subarray]]
 
 - [ ] Binary Search:
 	- [ ] [[]]

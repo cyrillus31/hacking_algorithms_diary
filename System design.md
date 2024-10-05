@@ -36,7 +36,8 @@ API  не должно содержать глаголов
  
  Load Balancer HAProxy && Nginx
 
-Os
+Open System Intercommunication Model
+Подход, котоырй описывает движение данных по сети с верхнего у ровня до нижнего.
 
 
 

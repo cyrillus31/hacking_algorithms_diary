@@ -69,16 +69,15 @@ Replication
 Leader election алгоритм выбора реплики.
 
 ![[Pasted image 20241005132959.png]]
-reloationsl
+relational
 non-relational
 column-oriented
-blob/object strorage
+blob/object storage
 time-series
 graph database
 search engines
 key-value
 high-availability key-value
-
 
 #### Для чего нужны поисковые движки?
 - Elasticsearch - движо, который хранит данные и позволяет делать быстрый поиск по тексту. Днанные хранятся в JSON-подобном формате

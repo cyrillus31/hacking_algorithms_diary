@@ -43,6 +43,7 @@ Open System Intercommunication Model
 
 ![[Pasted image 20241005131337.png]]
 
+Вариации termination/paththrew
 
 
 

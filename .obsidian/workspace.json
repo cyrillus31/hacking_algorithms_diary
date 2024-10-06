@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Впоросы.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

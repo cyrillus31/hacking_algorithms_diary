@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To know at the top of your head.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To know at the top of your head.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To know at the top of your head.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To know at the top of your head.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,8 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "Плавающие окна.md",
+    "To know at the top of your head.md",
     "System design.md",
     "Linked list.md",
     "Somnething.md",
@@ -174,7 +176,6 @@
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
     "Pasted image 20241007083630.png",
-    "Плавающие окна.md",
     "Фильтр Блюма.md",
     "_attachments/Pasted image 20241005135027.png",
     "algorithms/retry-list/retry-list.md",

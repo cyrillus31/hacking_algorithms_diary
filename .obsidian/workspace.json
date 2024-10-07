@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Фильтр Блюма.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Фильтр Блюма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Плавающие окна.md"
+                "file": "Фильтр Блюма.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Фильтр Блюма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,8 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
-    "Впоросы.md",
     "Плавающие окна.md",
+    "Впоросы.md",
     "To know at the top of your head.md",
     "System design.md",
     "Linked list.md",

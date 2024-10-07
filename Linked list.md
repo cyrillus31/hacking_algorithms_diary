@@ -1,4 +1,6 @@
 #сбер #яндекс #тинькоф
+#company 
+#linked-list 
 ## Find middle
 Fast and slow pointer
 

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a249b9ffcf0f4fb",
+        "id": "1c6a41ad2b957717",
         "type": "tabs",
         "children": [
           {
-            "id": "fd609f3e9c1d9afc",
+            "id": "db956a70d549a6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фильтр Блюма.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36026faa544a3e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интервалы и точки.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интервалы и точки.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интервалы и точки.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -145,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интервалы и точки.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,12 +156,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36026faa544a3e15",
+  "active": "db956a70d549a6aa",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20241007210624.png",
-    "_attachments/Pasted image 20241007210403.png",
+    "Untitled.md",
     "Фильтр Блюма.md",
     "Интервалы и точки.md",
+    "_attachments/Pasted image 20241007210624.png",
+    "_attachments/Pasted image 20241007210403.png",
     "Плавающие окна.md",
     "Впоросы.md",
     "To know at the top of your head.md",
@@ -199,7 +186,6 @@
     "_attachments/Pasted image 20241005135027.png",
     "_attachments/Pasted image 20241005134922.png",
     "_attachments/Pasted image 20241005134823.png",
-    "_attachments/Pasted image 20241005134128.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",

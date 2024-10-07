@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "System design.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 413.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "System design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md"
+                "file": "System design.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "System design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +182,15 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "Pasted image 20241007083630.png",
     "System design.md",
-    "Впоросы.md",
-    "algorithms/retry-list/retry-list.md",
-    "Notes.md",
+    "Плавающие окна.md",
+    "Фильтр Блюма.md",
     "Pasted image 20241005135345.png",
     "Pasted image 20241005135027.png",
+    "algorithms/retry-list/retry-list.md",
+    "Впоросы.md",
+    "Notes.md",
     "Pasted image 20241005134922.png",
     "Pasted image 20241005134823.png",
     "Pasted image 20241005134128.png",
@@ -195,7 +198,6 @@
     "Pasted image 20241005132823.png",
     "Pasted image 20241005132717.png",
     "Pasted image 20241005132149.png",
-    "Pasted image 20241005131337.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "tmpl/TEMPLATE_Fails.md",
@@ -219,14 +221,11 @@
     "algorithms/Problems/Binary search/704 Binary search",
     "algorithms/Problems/Binary search",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
-    "Плавающие окна.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
-    "algorithms/Problems/Two pointers and windows/283. Move zeroes",
-    "Interview.md",
-    "algorithms/Problems/Two pointers and windows/11. Container With Most Water/Container with most water Solution.md"
+    "algorithms/Problems/Two pointers and windows/283. Move zeroes"
   ]
 }

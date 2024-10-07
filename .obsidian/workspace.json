@@ -11,9 +11,11 @@
             "id": "fd609f3e9c1d9afc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "linkedlist.png"
+                "file": "To know at the top of your head.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedlist.png",
+                "file": "To know at the top of your head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedlist.png"
+                "file": "To know at the top of your head.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedlist.png",
+                "file": "To know at the top of your head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,14 +158,15 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "System design.md",
     "Linked list.md",
+    "Somnething.md",
+    "Notes.md",
+    "_attachments/linkedlist.png",
     "Interview.md",
     "Binary search.md",
     "Avito.md",
-    "linkedlist.png",
-    "System design.md",
     "_attachments/Pasted image 20240914135305.png",
-    "Somnething.md",
     "_attachments/Pasted image 20241007084022.png",
     "_attachments",
     "Untitled",
@@ -176,7 +179,6 @@
     "_attachments/Pasted image 20241005135027.png",
     "algorithms/retry-list/retry-list.md",
     "Впоросы.md",
-    "Notes.md",
     "_attachments/Pasted image 20241005134922.png",
     "_attachments/Pasted image 20241005134823.png",
     "_attachments/Pasted image 20241005134128.png",
@@ -200,7 +202,6 @@
     "algorithms/Problems/Binary search/704 Binary search",
     "algorithms/Problems/Binary search",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
-    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
-    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md"
+    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md"
   ]
 }

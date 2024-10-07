@@ -12,3 +12,4 @@ Fast and slow pointer
 return dummyNode.next
 ```
 
+![[linkedlist.png]]

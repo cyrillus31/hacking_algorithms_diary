@@ -1,3 +1,5 @@
+#system-design
+#interview 
 #### Главный принцип по проектироваю Rest API 
 API  не должно содержать глаголов
 - api/v2/elements

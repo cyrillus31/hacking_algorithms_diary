@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Впоросы.md"
+                "file": "algorithms/retry-list/retry-list.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Впоросы.md",
+                "file": "algorithms/retry-list/retry-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc411ccd0289b297",
+  "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "System design.md",
+    "Впоросы.md",
     "algorithms/retry-list/retry-list.md",
     "Notes.md",
-    "System design.md",
     "Pasted image 20241005135345.png",
     "Pasted image 20241005135027.png",
     "Pasted image 20241005134922.png",
@@ -213,7 +213,6 @@
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",
     "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
-    "Впоросы.md",
     "algorithms/Problems/Binary search/34 First and last position of element",
     "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
     "Linked list.md",

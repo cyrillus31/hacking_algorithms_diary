@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "current"
 }

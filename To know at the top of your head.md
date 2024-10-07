@@ -3,4 +3,8 @@
 - Quick sort
 - Count sort
 - Heap sort
-### Reverse linked list
+### Linked list
+- Reverse linked list
+
+### Search
+- Binary search (with two pointers preferra)

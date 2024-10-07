@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36026faa544a3e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интервалы и точки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 220.5
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фильтр Блюма.md",
+                "file": "Интервалы и точки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Фильтр Блюма.md"
+                "file": "Интервалы и точки.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Фильтр Блюма.md",
+                "file": "Интервалы и точки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd609f3e9c1d9afc",
+  "active": "36026faa544a3e15",
   "lastOpenFiles": [
+    "Фильтр Блюма.md",
+    "Интервалы и точки.md",
     "Плавающие окна.md",
     "Впоросы.md",
     "To know at the top of your head.md",
@@ -165,7 +180,6 @@
     "Linked list.md",
     "Interview.md",
     "Binary search.md",
-    "Фильтр Блюма.md",
     "algorithms/retry-list/retry-list.md",
     "Somnething.md",
     "Notes.md",
@@ -202,7 +216,6 @@
     "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
     "algorithms/Problems/Binary search/704 Binary search",
     "algorithms/Problems/Binary search",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
-    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md"
+    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray"
   ]
 }

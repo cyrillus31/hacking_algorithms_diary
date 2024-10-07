@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System design.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System design.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System design.md"
+                "file": "tmpl/TEMPLATE_Solution.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System design.md",
+                "file": "tmpl/TEMPLATE_Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,10 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
-    "Pasted image 20241007083630.png",
+    "tmpl/TEMPLATE_Fails.md",
+    "tmpl/TEMPLATE_Solution.md",
     "System design.md",
+    "Pasted image 20241007083630.png",
     "Плавающие окна.md",
     "Фильтр Блюма.md",
     "Pasted image 20241005135345.png",
@@ -200,8 +202,6 @@
     "Pasted image 20241005132149.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
-    "tmpl/TEMPLATE_Fails.md",
-    "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "Binary search.md",
     "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",

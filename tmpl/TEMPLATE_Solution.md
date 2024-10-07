@@ -3,9 +3,7 @@
 ___
 [LINK](PLACEHOLDER)
 
->[!Note]- Problem Description
-> Placeholder
-
+PROBLEM_DESCRIPTION...
 
 ## Solution Idea
 ___

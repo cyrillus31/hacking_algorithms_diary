@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -171,6 +172,7 @@
   },
   "active": "36026faa544a3e15",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20241007210624.png",
     "_attachments/Pasted image 20241007210403.png",
     "Фильтр Блюма.md",
     "Интервалы и точки.md",
@@ -198,7 +200,6 @@
     "_attachments/Pasted image 20241005134922.png",
     "_attachments/Pasted image 20241005134823.png",
     "_attachments/Pasted image 20241005134128.png",
-    "_attachments/Pasted image 20241005132959.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",

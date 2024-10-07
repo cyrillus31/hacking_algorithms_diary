@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Впоросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md"
+                "file": "Впоросы.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Впоросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4746dfc17bc1bb82",
+  "active": "33a6fd3afd571cf7",
   "lastOpenFiles": [
+    "algorithms/retry-list/retry-list.md",
     "Notes.md",
     "System design.md",
     "Pasted image 20241005135345.png",
@@ -196,7 +197,6 @@
     "Pasted image 20241005132717.png",
     "Pasted image 20241005132149.png",
     "Pasted image 20241005131337.png",
-    "algorithms/retry-list/retry-list.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "tmpl/TEMPLATE_Fails.md",

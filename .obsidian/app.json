@@ -3,5 +3,5 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./.attachments"
+  "attachmentFolderPath": "./_attachments"
 }

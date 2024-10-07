@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Somnething.md",
+                "file": "System design.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Somnething.md",
+                "file": "System design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Somnething.md"
+                "file": "System design.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Somnething.md",
+                "file": "System design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,25 +158,28 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
-    "System design.md",
+    "_attachments/Pasted image 20240914135305.png",
     "Somnething.md",
+    "_attachments/Pasted image 20241007084022.png",
+    "_attachments",
+    "Untitled",
+    "_attachments/Pasted image 20241005135345.png",
+    "System design.md",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
     "Pasted image 20241007083630.png",
     "Плавающие окна.md",
     "Фильтр Блюма.md",
-    "Pasted image 20241005135345.png",
-    "Pasted image 20241005135027.png",
+    "_attachments/Pasted image 20241005135027.png",
     "algorithms/retry-list/retry-list.md",
     "Впоросы.md",
     "Notes.md",
-    "Pasted image 20241005134922.png",
-    "Pasted image 20241005134823.png",
-    "Pasted image 20241005134128.png",
-    "Pasted image 20241005132959.png",
-    "Pasted image 20241005132823.png",
-    "Pasted image 20241005132717.png",
-    "Pasted image 20241005132149.png",
+    "_attachments/Pasted image 20241005134922.png",
+    "_attachments/Pasted image 20241005134823.png",
+    "_attachments/Pasted image 20241005134128.png",
+    "_attachments/Pasted image 20241005132959.png",
+    "_attachments/Pasted image 20241005132823.png",
+    "_attachments/Pasted image 20241005132717.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
@@ -200,9 +203,6 @@
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Intersection of sorted arrays.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays/Fails.md",
-    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
-    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Move zeroes Solution.md",
-    "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
-    "algorithms/Problems/Two pointers and windows/283. Move zeroes"
+    "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md"
   ]
 }

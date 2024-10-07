@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Плавающие окна.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Плавающие окна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md"
+                "file": "Плавающие окна.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/retry-list/retry-list.md",
+                "file": "Плавающие окна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +158,18 @@
   },
   "active": "fd609f3e9c1d9afc",
   "lastOpenFiles": [
+    "Впоросы.md",
     "Плавающие окна.md",
     "To know at the top of your head.md",
     "System design.md",
     "Linked list.md",
+    "Interview.md",
+    "Binary search.md",
+    "Фильтр Блюма.md",
+    "algorithms/retry-list/retry-list.md",
     "Somnething.md",
     "Notes.md",
     "_attachments/linkedlist.png",
-    "Interview.md",
-    "Binary search.md",
     "Avito.md",
     "_attachments/Pasted image 20240914135305.png",
     "_attachments/Pasted image 20241007084022.png",
@@ -176,10 +179,7 @@
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
     "Pasted image 20241007083630.png",
-    "Фильтр Блюма.md",
     "_attachments/Pasted image 20241005135027.png",
-    "algorithms/retry-list/retry-list.md",
-    "Впоросы.md",
     "_attachments/Pasted image 20241005134922.png",
     "_attachments/Pasted image 20241005134823.png",
     "_attachments/Pasted image 20241005134128.png",

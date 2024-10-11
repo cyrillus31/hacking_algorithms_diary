@@ -71,12 +71,40 @@ Because at worst we will put all elements on the stack and that's it.
 ## My Code:
 ___
 ```go
+func isValid(s string) bool {
+    stack := make([]rune, 0)
+    par := map[rune]rune{
+        '(': ')',
+        '{': '}',
+        '[': ']',
+    }
 
+    for _, char := range s {
+        // if char is open - push onto the stack
+        if _, ok := par[char]; ok {
+            stack = append(stack, char)
+        } else if len(stack) > 0 {
+            // else check the stack
+            // if stack has valid - pop
+            last := stack[len(stack)-1]
+            if char == par[last] {
+                // POP
+                stack = stack[:len(stack)-1]
+            } else {
+                // if invalid - return false 
+                return false
+            }
+        } else {
+            return false
+        }
+    }
+    return len(stack) == 0
+}
 
 ```
 
 > [!Attention]
-> - 
+> - Check the size of
 
 
 ## Example solution:

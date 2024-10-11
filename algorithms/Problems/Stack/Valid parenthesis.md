@@ -68,5 +68,5 @@ func isValid(s string) bool {
     return true  // !PROBLEM: didn't take size of the array into account }
 ```
 
-**PROBLEM:** when input '\[' the 
-**SOLUTION:**
+**PROBLEM:** when input '\[' we return true
+**SOLUTION:** Didn't account for the size of the array in the end

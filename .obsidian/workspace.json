@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid parenthesis.md",
+                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid parenthesis.md",
+                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid parenthesis.md"
+                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid parenthesis.md",
+                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "db956a70d549a6aa",
   "lastOpenFiles": [
-    "Common mistakes/Stack.md",
     "algorithms/Problems/Stack/Valid parenthesis.md",
+    "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
+    "Common mistakes/Stack.md",
     "algorithms/Problems/Stack",
     "Стэк.md",
     "Common mistakes",
@@ -197,7 +198,6 @@
     "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Maximum average subarray.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",

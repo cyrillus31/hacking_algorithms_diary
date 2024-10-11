@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стэк.md",
+                "file": "Плавающие окна.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стэк.md",
+                "file": "Плавающие окна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стэк.md"
+                "file": "Плавающие окна.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стэк.md",
+                "file": "Плавающие окна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,9 @@
   },
   "active": "db956a70d549a6aa",
   "lastOpenFiles": [
+    "Стэк.md",
     "_attachments/Pasted image 20241007214236.png",
     "_attachments/Pasted image 20241007214044.png",
-    "Стэк.md",
     "Фильтр Блюма.md",
     "Интервалы и точки.md",
     "_attachments/Pasted image 20241007210624.png",
@@ -186,7 +186,6 @@
     "tmpl/TEMPLATE_Solution.md",
     "Pasted image 20241007083630.png",
     "_attachments/Pasted image 20241005135027.png",
-    "_attachments/Pasted image 20241005134922.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",

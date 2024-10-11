@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Common mistakes/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Common mistakes/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Плавающие окна.md"
+                "file": "Common mistakes/Stack.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Плавающие окна.md",
+                "file": "Common mistakes/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,13 +159,15 @@
   "active": "db956a70d549a6aa",
   "lastOpenFiles": [
     "Стэк.md",
+    "Common mistakes/Stack.md",
+    "Common mistakes",
+    "Плавающие окна.md",
     "_attachments/Pasted image 20241007214236.png",
     "_attachments/Pasted image 20241007214044.png",
     "Фильтр Блюма.md",
     "Интервалы и точки.md",
     "_attachments/Pasted image 20241007210624.png",
     "_attachments/Pasted image 20241007210403.png",
-    "Плавающие окна.md",
     "Впоросы.md",
     "To know at the top of your head.md",
     "System design.md",
@@ -180,7 +182,6 @@
     "_attachments/Pasted image 20240914135305.png",
     "_attachments/Pasted image 20241007084022.png",
     "_attachments",
-    "Untitled",
     "_attachments/Pasted image 20241005135345.png",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",

@@ -104,7 +104,11 @@ func isValid(s string) bool {
 ```
 
 > [!Attention]
-> - Check the size of
+> - Check the size of the stack during execution
+> - Check the size of the stack at the end
+> - Pop from stack in go is `stack = stack[:len(stack)-1]`
+
+
 
 
 ## Example solution:

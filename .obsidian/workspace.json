@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common mistakes/Stack.md",
+                "file": "algorithms/Problems/Stack/Valid parenthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common mistakes/Stack.md",
+                "file": "algorithms/Problems/Stack/Valid parenthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common mistakes/Stack.md"
+                "file": "algorithms/Problems/Stack/Valid parenthesis.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common mistakes/Stack.md",
+                "file": "algorithms/Problems/Stack/Valid parenthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,10 @@
   },
   "active": "db956a70d549a6aa",
   "lastOpenFiles": [
-    "Стэк.md",
     "Common mistakes/Stack.md",
+    "algorithms/Problems/Stack/Valid parenthesis.md",
+    "algorithms/Problems/Stack",
+    "Стэк.md",
     "Common mistakes",
     "Плавающие окна.md",
     "_attachments/Pasted image 20241007214236.png",
@@ -197,12 +199,10 @@
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Maximum average subarray.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
-    "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",
     "algorithms/Problems/Binary search/34 First and last position of element",
     "algorithms/Problems/Binary search/704 Binary search",
-    "algorithms/Problems/Binary search",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray"
+    "algorithms/Problems/Binary search"
   ]
 }

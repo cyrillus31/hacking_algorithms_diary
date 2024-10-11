@@ -61,12 +61,12 @@ ___
 ## Time Complexity
 ___
 **O(n)** 
-Because
+Because we do some action on every element in the input array.
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(n)**
+Because at worst we will put all elements on the stack and that's it.
 
 ## My Code:
 ___

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a7408ae06fda22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithms/Problems/Stack/Вопросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
+                "file": "algorithms/Problems/Stack/Вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md"
+                "file": "algorithms/Problems/Stack/Вопросы.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
+                "file": "algorithms/Problems/Stack/Вопросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db956a70d549a6aa",
+  "active": "9a7408ae06fda22c",
   "lastOpenFiles": [
-    "algorithms/Problems/Stack/Valid parenthesis.md",
     "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
+    "algorithms/Problems/Stack/Вопросы.md",
+    "algorithms/Problems/Stack/Valid parenthesis.md",
     "Common mistakes/Stack.md",
     "algorithms/Problems/Stack",
     "Стэк.md",
@@ -197,7 +211,6 @@
     "conflict-files-obsidian-git.md",
     "algorithms/Problems/Linked list/206 Reverse linked list/Fails.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Search a 2D Matrix.md",
-    "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",

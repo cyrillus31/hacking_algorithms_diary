@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Stack/Вопросы.md",
+                "file": "Common mistakes/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Stack/Вопросы.md",
+                "file": "Common mistakes/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Stack/Вопросы.md"
+                "file": "Common mistakes/Stack.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Stack/Вопросы.md",
+                "file": "Common mistakes/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a7408ae06fda22c",
+  "active": "dc411ccd0289b297",
   "lastOpenFiles": [
+    "Важные интересные вопросы.md",
     "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
-    "algorithms/Problems/Stack/Вопросы.md",
     "algorithms/Problems/Stack/Valid parenthesis.md",
     "Common mistakes/Stack.md",
     "algorithms/Problems/Stack",

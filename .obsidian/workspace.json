@@ -11,8 +11,12 @@
             "id": "c9f5ffc385d489c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backtracking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backtracking.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,6 +158,7 @@
   },
   "active": "c9f5ffc385d489c1",
   "lastOpenFiles": [
+    "Backtracking.md",
     "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
     "Важные интересные вопросы.md",
     "_attachments/Pasted image 20241012133853.png",

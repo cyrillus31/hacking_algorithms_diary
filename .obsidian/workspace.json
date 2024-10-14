@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1adfa0b55ed7781b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backtracking.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backtracking.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backtracking.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9f5ffc385d489c1",
+  "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20241014210435.png",
     "Backtracking.md",
+    "Untitled.md",
+    "_attachments/Pasted image 20241014210435.png",
     "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
     "Важные интересные вопросы.md",
     "_attachments/Pasted image 20241012133853.png",
@@ -192,7 +206,6 @@
     "_attachments/Pasted image 20241005135345.png",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
-    "Pasted image 20241007083630.png",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",

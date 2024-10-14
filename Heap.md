@@ -17,5 +17,13 @@
 Кучу обычно реализоваывают на динамическом массиве.
 
 
-Как найти левого ребенка:
-ш
+```
+find left child
+(i * 2) + 1
+
+find right child
+(i * 2) + 2
+
+find parent
+(k - 1) // 2 # floor division
+```

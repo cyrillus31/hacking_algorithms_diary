@@ -114,9 +114,36 @@ func numIslands(grid [][]byte) int {
 
 ## Example solution:
 ___
-[Video](VIDEO_LINK)
+[Video](https://youtu.be/gPZ-LGDxyT4)
 
 ```go
+func numIslands(grid [][]byte) int {
+	result := 0
+	for i := 0; i < len(grid); i++ {
+		for j := 0; j < len(grid[i]); j++ {
+			// если клетка '1' (земля)
+			if grid[i][j] == '1' {
+				// запустить dfs, чтобы пометить все связанные клетки суши как '0'
+				dfs(i, j, grid)
+				// увеличить счетчик островов
+				result++
+			}
+		}
+	}
+	return result
+}
 
-
+func dfs(x int, y int, grid [][]byte) {
+	// базовый случай: за пределами границ или клетка - вода ('0')
+	if x < 0 || x >= len(grid) || y < 0 || y >= len(grid[0]) || grid[x][y] == '0' {
+		return
+	}
+	// пометить текущую клетку как воду ('0')
+	grid[x][y] = '0'
+	// рекурсивно исследовать соседние клетки
+	dfs(x+1, y, grid)
+	dfs(x-1, y, grid)
+	dfs(x, y+1, grid)
+	dfs(x, y-1, grid)
+}
 ```

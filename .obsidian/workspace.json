@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Graphs.md",
+                "file": "algorithms/Problems/Graphs/Number of islands.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Graphs.md",
+                "file": "algorithms/Problems/Graphs/Number of islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Graphs.md"
+                "file": "algorithms/Problems/Graphs/Number of islands.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Graphs.md",
+                "file": "algorithms/Problems/Graphs/Number of islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +172,8 @@
   "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
     "Heap.md",
+    "algorithms/Problems/Graphs/Number of islands.md",
+    "algorithms/Problems/Graphs",
     "algorithms/Problems/Graphs.md",
     "Backtracking.md",
     "_attachments/Pasted image 20241014210435.png",
@@ -210,12 +212,10 @@
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
-    "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",
     "algorithms/Problems/Binary search/34 First and last position of element",
-    "algorithms/Problems/Binary search/704 Binary search",
-    "algorithms/Problems/Binary search"
+    "algorithms/Problems/Binary search/704 Binary search"
   ]
 }

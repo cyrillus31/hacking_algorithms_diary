@@ -109,7 +109,7 @@ func numIslands(grid [][]byte) int {
 ```
 
 > [!Attention]
-> - Don't use walrus operator (:=) when popping from the slice! It will create a slice confined to the current !
+> - Don't use walrus operator (:=) when popping from the slice! It will create a slice confined to the current run of the `len(stack) > 0` loop and you will never reach the end because stack outside of the loop won't change!
 
 
 ## Example solution:

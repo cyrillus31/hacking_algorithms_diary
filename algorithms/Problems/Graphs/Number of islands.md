@@ -52,7 +52,7 @@ Because because we have to walk over each element once.
 ## Space Complexity
 ___
 **O(n\*m)** where n\*m is the size of the original array
-Because stack or queue in worst case can take all in all of the origin elements.
+Because stack or queue in worst case can take in all of the original elements.
 
 ## My Code:
 ___

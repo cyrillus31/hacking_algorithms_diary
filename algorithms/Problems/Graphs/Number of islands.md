@@ -32,7 +32,8 @@ grid[i][j] is '0' or '1'.
 ## Solution Idea
 ___
 Apply bfs or dfs for every peace of land. 
-- If 
+- If original array can be changed - change land to water in place
+- If original array can not be changed - create a \[]\[]bool array to store visited nodes.
 
 
 ## Special Test Cases

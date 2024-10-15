@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heap.md",
+                "file": "algorithms/Problems/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heap.md",
+                "file": "algorithms/Problems/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heap.md"
+                "file": "algorithms/Problems/Graphs.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heap.md",
+                "file": "algorithms/Problems/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,9 @@
   },
   "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
-    "Backtracking.md",
     "Heap.md",
+    "algorithms/Problems/Graphs.md",
+    "Backtracking.md",
     "_attachments/Pasted image 20241014210435.png",
     "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
     "Важные интересные вопросы.md",
@@ -210,7 +211,6 @@
     "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "algorithms/Problems/Linked list/206 Reverse linked list/Reverse linked list.md",
-    "conflict-files-obsidian-git.md",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",

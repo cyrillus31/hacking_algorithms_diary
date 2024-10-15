@@ -1,4 +1,3 @@
-
 #solution 
 #graph
 #dfs #bfs
@@ -41,12 +40,13 @@ Apply bfs or dfs for every peace of land.
 ## Special Test Cases
 ___
 ```
+---
 
 ```
 
 ## Time Complexity
 ___
-**O(?)** 
+**O(n\*m)** where n*
 Because
 
 ## Space Complexity

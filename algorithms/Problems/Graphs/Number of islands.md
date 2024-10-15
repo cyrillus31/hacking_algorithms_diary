@@ -109,7 +109,7 @@ func numIslands(grid [][]byte) int {
 ```
 
 > [!Attention]
-> - Do
+> - Don't use walrus operator (:=) when popping from the slice! It will create a slice confined to the current !
 
 
 ## Example solution:

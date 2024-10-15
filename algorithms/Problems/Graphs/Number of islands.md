@@ -46,13 +46,13 @@ ___
 
 ## Time Complexity
 ___
-**O(n\*m)** where n*
-Because
+**O(n\*m)** where n\*m is the size of the original array
+Because because we have to walk over each element once. 
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(n\*m)** where n\*m is the size of the original array
+Because stack or queue in worst case can take all in all of the origin elements.
 
 ## My Code:
 ___

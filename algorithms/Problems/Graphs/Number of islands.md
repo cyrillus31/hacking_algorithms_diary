@@ -1,5 +1,7 @@
+
 #solution 
-#THEME
+#graph
+#dfs #bfs
 ## Problem
 ___
 [LINK](https://leetcode.com/problems/number-of-islands/description/)

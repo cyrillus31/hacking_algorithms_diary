@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./_attachments"
+  "attachmentFolderPath": "./_attachments",
+  "showInlineTitle": true
 }

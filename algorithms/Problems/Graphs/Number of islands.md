@@ -57,12 +57,59 @@ Because stack or queue in worst case can take all in all of the origin elements.
 ## My Code:
 ___
 ```go
+func dfs(grid [][]byte, x_start, y_start int) {
+    stack := [][]int{[]int{x_start, y_start}}
+    directions := [][]int{
+        []int{1, 0},
+        []int{0, 1},
+        []int{-1, 0},
+        []int{0, -1},
+    }
+    for len(stack) > 0 {
+        // pop
+        var point []int
+        stack, point = stack[:len(stack)-1], stack[len(stack)-1] // ATTENTION! DON'T RECREATE 'stack' here again! Don't use :=
+        // current point
+        cur_x, cur_y := point[0], point[1]
+        // make water
+        grid[cur_x][cur_y] = '0'
+        //neighbours
+        for _, dir := range directions {
+            x_dif, y_dif := dir[0], dir[1]
+            new_x := cur_x + x_dif
+            new_y := cur_y + y_dif
+            if new_x < 0 || new_x > len(grid) - 1 {
+                continue
+            }
+            if new_y < 0 || new_y > len(grid[0]) - 1 {
+                continue
+            }
+            if grid[new_x][new_y] == '1' {
+                // push on stack
+                stack = append(stack, []int{new_x, new_y})
+            }
+        }
+    }
+}
 
+func numIslands(grid [][]byte) int { 
+    result := 0
+    // check all cells from 0, 0 to n, m
+    for x := 0; x < len(grid); x++ {
+        for y := 0; y < len(grid[0]); y++ {
+            if grid[x][y] == '1' {
+                dfs(grid, x, y)
+                result++
+            }
+        }
+    }
+    return result
+}
 
 ```
 
 > [!Attention]
-> - 
+> - Do
 
 
 ## Example solution:

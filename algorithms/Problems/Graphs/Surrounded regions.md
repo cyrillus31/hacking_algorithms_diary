@@ -127,7 +127,9 @@ func solve(board [][]byte) {
 ```
 
 > [!Attention]
-> - Make sure that you go into four directions from the point that you've just popped and not from t
+> - Make sure that you go into four directions from the point that you've just popped and not from some other point on each iteration.
+> - Non-asymptotical optimization would be 
+
 
 
 ## Example solution:

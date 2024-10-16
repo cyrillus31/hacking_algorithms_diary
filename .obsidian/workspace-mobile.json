@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System design.md",
+                "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "System design.md",
+            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "System design.md",
+            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "System design.md"
+            "file": "algorithms/Problems/Hash-table/Top_K_frequent_elements/Top K frequent elements Solution.md"
           }
         }
       },
@@ -155,6 +155,9 @@
   },
   "active": "fe1da2aba253814e",
   "lastOpenFiles": [
+    "algorithms/Problems/Hash-table/1. Хеш-таблица (ДЗ) - Yonote.md",
+    "System design.md",
+    "algorithms/Problems/Hash-table/Top_K_frequent_elements/Fails.md",
     "Common mistakes/Stack.md",
     "Впоросы.md",
     "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
@@ -187,14 +190,11 @@
     "algorithms/Problems/Binary search/72 Search a 2D matrix/Fails.md",
     "algorithms/Problems/Binary search/704 Binary search/Binary Search solution.md",
     "algorithms/Problems/Binary search/34 First and last position of element/First and last position of element in sorted array.md",
-    "algorithms/Problems/Binary search/34 First and last position of element/Fails.md",
     "_attachments/linkedlist.png",
     "_attachments/Pasted image 20241014210435.png",
     "_attachments/Pasted image 20241012133853.png",
     "_attachments/Pasted image 20241007214236.png",
     "_attachments/Pasted image 20241007214044.png",
-    "System design.md",
-    "Linked list.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
     "algorithms/Problems/Stack",

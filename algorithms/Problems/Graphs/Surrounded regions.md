@@ -10,7 +10,7 @@ Region: To form a region connect every 'O' cell.
 Surround: The region is surrounded with 'X' cells if you can connect the region with 'X' cells and none of the region cells are on the edge of the board.
 A surrounded region is captured by replacing all 'O's with 'X's in the input matrix board.
 Example 1:
-![[Pasted image 20241016085552.png|100]]
+![[Pasted image 20241016085552.png|400]]
 Input: board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
 Output: [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]
 Explanation:
@@ -34,12 +34,13 @@ ___
 ## Special Test Cases
 ___
 ```
+["X"]
 
 ```
 
 ## Time Complexity
 ___
-**O(?)** 
+**O(n\*m)** where n\*m 
 Because
 
 ## Space Complexity

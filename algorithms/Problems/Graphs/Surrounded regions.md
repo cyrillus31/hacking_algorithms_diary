@@ -127,12 +127,13 @@ func solve(board [][]byte) {
 ```
 
 > [!Attention]
-> - 
+> - Make sure that you go into four directions from the point that you've just popped and not from t
 
 
 ## Example solution:
 ___
-[Video](VIDEO_LINK)
+[Video](https://kinescope.io/r2151L78eUtCPS6t4xMgJv)
+Видео нет, только похожая задача в созвоне.
 
 ```go
 func solve(board [][]byte) {

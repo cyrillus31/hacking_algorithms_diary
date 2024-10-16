@@ -40,13 +40,13 @@ ___
 
 ## Time Complexity
 ___
-**O(n\*m)** where n\*m 
-Because
+**O(n\*m)** where n\*m is the amount of elements in the array. 
+_Because we will walk over each element once._
 
 ## Space Complexity
 ___
-**O(?)**
-Because
+**O(n\*m)** where n\*m is the amount of elements in the array. 
+Because we can u
 
 ## My Code:
 ___

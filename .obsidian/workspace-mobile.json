@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+            "file": "Впоросы.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
+            "file": "Впоросы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md"
+            "file": "Впоросы.md"
           }
         }
       },
@@ -155,6 +155,18 @@
   },
   "active": "5a877155ed58ec42",
   "lastOpenFiles": [
+    "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085552.png",
+    "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085433.png",
+    "algorithms/Problems/Graphs/Surrounded regions.md",
+    "algorithms/Problems/Graphs/Number of islands.md",
+    "/algorithms/Problems/Graphs/_attachments/Pasted image 20241016085552.png",
+    "/algorithms/Problems/Graphs/_attachments/Pasted image 20241016085433.png",
+    "/algorithms/Problems/Graphs/Surrounded regions.md",
+    "/algorithms/Problems/Graphs/Number of islands.md",
+    "algorithms/Problems/Graphs/_attachments",
+    "algorithms/Problems/Graphs",
+    "/algorithms/Problems/Graphs/_attachments",
+    "/algorithms/Problems/Graphs",
     "_attachments/Pasted image 20240914135305.png",
     "Стэк.md",
     "Интервалы и точки.md",
@@ -179,27 +191,15 @@
     "_attachments/Pasted image 20241007214236.png",
     "_attachments/Pasted image 20241007214044.png",
     "_attachments/Pasted image 20241007210624.png",
-    "_attachments/Pasted image 20241007210403.png",
-    "_attachments/Pasted image 20241007084022.png",
-    "_attachments/Pasted image 20241005135345.png",
-    "_attachments/Pasted image 20241005135027.png",
     "System design.md",
     "Linked list.md",
     "Heap.md",
     "Common mistakes/Stack.md",
-    "Binary search.md",
-    "Backtracking.md",
-    "/Стэк.md",
-    "/Плавающие окна.md",
     "algorithms/Problems/Two pointers and windows/Intersection Of Sorted Arrays",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray",
     "algorithms/Problems/Stack",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "algorithms/Problems/Linked list/206 Reverse linked list",
-    "algorithms/Problems/Linked list",
-    "algorithms/Problems/Binary search/72 Search a 2D matrix",
-    "algorithms/Problems/Binary search/704 Binary search",
-    "algorithms/Problems/Binary search/34 First and last position of element",
-    "algorithms/Problems/Binary search"
+    "algorithms/Problems/Linked list"
   ]
 }

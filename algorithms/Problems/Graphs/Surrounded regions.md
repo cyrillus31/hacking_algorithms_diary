@@ -46,7 +46,7 @@ _Because we will walk over each element once._
 ## Space Complexity
 ___
 **O(n\*m)** where n\*m is the amount of elements in the array. 
-Because we can u
+Because we can use bfs or dfs, and at worst case queue or stack can occupy the same amount of memory as the original array.
 
 ## My Code:
 ___
@@ -135,6 +135,55 @@ ___
 [Video](VIDEO_LINK)
 
 ```go
+func solve(board [][]byte) {
+	visited := make([][]bool, len(board))
+	for i := range visited {
+		visited[i] = make([]bool, len(board[0]))
+	}
+	// перебираем крайние столбцы
+	for i := range board {
+		dfs(i, 0, visited, board, false)
+		dfs(i, len(board[0])-1, visited, board, false)
+	}
+  // перебираем крайние строки
+	for i := range board[0] {
+		dfs(0, i, visited, board, false)
+		dfs(len(board)-1, i, visited, board, false)
+	}
+  // обходим все индексы кроме крайних - т к их уже обходили
+	for i := 1; i < len(board)-1; i++ {
+		for j := 1; j < len(board[i])-1; j++ {
+			dfs(i, j, visited, board, true)
+		}
+	}
+}
+
+// делаем обход и помечаем вершины пройденными
+// если flip -> true, то помечаем все пройденные вершины как X
+func dfs(startX int, startY int, visited [][]bool, board [][]byte, flip bool) {
+	if !goodIdx(startX, startY, board) {
+		return
+	}
+	if visited[startX][startY] || board[startX][startY] == 'X' {
+		return
+	}
+
+	visited[startX][startY] = true
+	if flip {
+		board[startX][startY] = 'X'
+	}
+
+	steps := [][]int{{0, 1}, {0, -1}, {1, 0}, {-1, 0}}
+	for _, step := range steps {
+		newX, newY := startX+step[0], startY+step[1]
+		dfs(newX, newY, visited, board, flip)
+	}
+}
+
+// проверяем не выходят ли индексы за границу массива, True - если не выходим
+func goodIdx(i int, j int, board [][]byte) bool {
+	return 0 <= i && i < len(board) && 0 <= j && j < len(board[0])
+}
 
 
 ```

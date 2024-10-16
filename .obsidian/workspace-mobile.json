@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Впоросы.md",
+            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Впоросы.md",
+            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Впоросы.md"
+            "file": "algorithms/Problems/Two pointers and windows/283. Move zeroes/Fails.md"
           }
         }
       },
@@ -153,8 +153,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a877155ed58ec42",
+  "active": "fe1da2aba253814e",
   "lastOpenFiles": [
+    "Впоросы.md",
     "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085552.png",
     "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085433.png",
     "algorithms/Problems/Graphs/Surrounded regions.md",
@@ -190,7 +191,6 @@
     "_attachments/Pasted image 20241012133853.png",
     "_attachments/Pasted image 20241007214236.png",
     "_attachments/Pasted image 20241007214044.png",
-    "_attachments/Pasted image 20241007210624.png",
     "System design.md",
     "Linked list.md",
     "Heap.md",

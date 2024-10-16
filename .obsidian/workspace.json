@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Graphs/Number of islands.md",
+                "file": "algorithms/Problems/Graphs/Surrounded regions.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Graphs/Number of islands.md",
+                "file": "algorithms/Problems/Graphs/Surrounded regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Graphs/Number of islands.md"
+                "file": "algorithms/Problems/Graphs/Surrounded regions.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Graphs/Number of islands.md",
+                "file": "algorithms/Problems/Graphs/Surrounded regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,9 @@
   },
   "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
-    "Heap.md",
     "algorithms/Problems/Graphs/Number of islands.md",
+    "algorithms/Problems/Graphs/Surrounded regions.md",
+    "Heap.md",
     "algorithms/Problems/Graphs",
     "algorithms/Problems/Graphs.md",
     "Backtracking.md",
@@ -210,7 +211,6 @@
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
     "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
-    "algorithms/Problems/Linked list/234 Palindrome Linked List/Palindrome Linked List.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "algorithms/Problems/Linked list/206 Reverse linked list",

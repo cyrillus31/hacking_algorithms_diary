@@ -171,6 +171,8 @@
   },
   "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
+    "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085433.png",
+    "algorithms/Problems/Graphs/_attachments",
     "algorithms/Problems/Graphs/Number of islands.md",
     "algorithms/Problems/Graphs/Surrounded regions.md",
     "Heap.md",
@@ -210,12 +212,10 @@
     "_attachments/Pasted image 20241005135345.png",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",
-    "algorithms/Problems/Two pointers and windows/646 Maximum average subarray/Fails.md",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",
     "algorithms/Problems/Linked list/206 Reverse linked list",
     "algorithms/Problems/Linked list",
-    "algorithms/Problems/Binary search/34 First and last position of element",
-    "algorithms/Problems/Binary search/704 Binary search"
+    "algorithms/Problems/Binary search/34 First and last position of element"
   ]
 }

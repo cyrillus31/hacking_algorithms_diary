@@ -240,5 +240,4 @@ CDN - технология, подход, который позволяет на
 
 
 
-# System Design schema
-![[Pasted image 20241019212625.png]]
+# System Design schema ![[Pasted image 20241019212625.png]]

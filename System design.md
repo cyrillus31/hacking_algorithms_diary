@@ -198,3 +198,6 @@ Load Balancer - reverse-proxy
 
 ### Bottleneck
 SPoF
+
+
+Я выбор 

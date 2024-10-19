@@ -188,3 +188,7 @@ Load Balancer - reverse-proxy
 ![[Pasted image 20241019131520.png]]
 
 
+
+# Проектирование!
+
+

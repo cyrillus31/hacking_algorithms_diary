@@ -217,8 +217,9 @@ Graceful degradation (когда отламывается только част�
 
 Blog storage/ object storage (s3) - для хранения объектов, картинок. 
 
-CQRS pattern - when we split a system
+CQRS pattern - when we split a system into read and write (when avatar of a user on an external server).
 
+CDN - технология, подход, который позволяет 
 
 
 

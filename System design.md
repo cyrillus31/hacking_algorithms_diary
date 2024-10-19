@@ -142,7 +142,9 @@ SLO - цели команд, чтобы выполнить соглашение
 Classified - это сайты, где размещаются обьявления (как avito).
 
 ![[Pasted image 20241019124546.png]]
-
+DAU - daily active users
+MAU - max active users
+RPS - 1 : 100 на каждые 100 запросов 
 
 
 

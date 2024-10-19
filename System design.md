@@ -227,4 +227,6 @@ CDN - технология, подход, который позволяет на
 
 ### Observability
 1. logs: fluentbit/fluentD (сгребает логи, процесси и скидывает в elastic search)
-2. 
+2. metrics
+	- techincal: CPU, RAM, Disk
+	- business: RPS, DAU, MAU

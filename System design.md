@@ -146,6 +146,9 @@ DAU - daily active users
 MAU - max active users
 RPS - 1 : 100 на каждые 100 запросов 
 
+![[Pasted image 20241019125012.png]]
+
+
 
 
 

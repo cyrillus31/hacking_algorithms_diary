@@ -203,3 +203,5 @@ SPoF
 Я выбор технологию **ПОТОМУ ЧТО Я С НЕЙ РАБОТАЛ**.
 
 CDC - capture data change
+
+Retry (3), backOff(exponen)

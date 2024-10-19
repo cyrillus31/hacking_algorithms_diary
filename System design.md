@@ -202,6 +202,8 @@ SPoF
 
 Я выбор технологию **ПОТОМУ ЧТО Я С НЕЙ РАБОТАЛ**.
 
-CDC - capture data change
+CDC - capture data change (для инвалидации кэша)
 
-Retry (3), backOff(exponential)
+Retry (3), backOff(exponential или рандом) - чтобы повторить запросы, ко
+
+

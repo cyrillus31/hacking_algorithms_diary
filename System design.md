@@ -204,4 +204,4 @@ SPoF
 
 CDC - capture data change
 
-Retry (3), backOff(exponen)
+Retry (3), backOff(exponential)

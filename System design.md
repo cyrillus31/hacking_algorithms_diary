@@ -1,5 +1,8 @@
 #system-design
 #interview 
+
+Miro board:
+	https://miro.com/app/board/uXjVLZJa5Mg=/
 #### Главный принцип по проектироваю Rest API 
 API  не должно содержать глаголов
 - api/v2/elements
@@ -241,3 +244,5 @@ CDN - технология, подход, который позволяет на
 
 
 # System Design schema ![[Pasted image 20241019212625.png]]
+Miro board:
+	https://miro.com/app/board/uXjVLZJa5Mg=/

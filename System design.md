@@ -177,3 +177,7 @@ API gateway вешает trace. Jaeger.
 
 ## DNS
 ![[Pasted image 20241019131120.png]]
+VPN - proxy
+Load Balancer - reverse-proxy
+
+

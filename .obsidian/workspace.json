@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -171,6 +172,7 @@
   },
   "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20241019125755.png",
     "_attachments/Pasted image 20241019125630.png",
     "_attachments/Pasted image 20241019125200.png",
     "_attachments/Pasted image 20241019125012.png",
@@ -188,7 +190,6 @@
     "algorithms/Problems/Graphs",
     "algorithms/Problems/Graphs.md",
     "Backtracking.md",
-    "_attachments/Pasted image 20241014210435.png",
     "algorithms/Problems/Stack/Valid Parenthesis Solution.md",
     "Важные интересные вопросы.md",
     "Common mistakes/Stack.md",

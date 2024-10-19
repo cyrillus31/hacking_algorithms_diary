@@ -1,6 +1,10 @@
 #system-design
 #interview 
 
+![[Pasted image 20241019212842.png]]
+
+![[Pasted image 20241019212904.png]]
+
 Miro board:
 	https://miro.com/app/board/uXjVLZJa5Mg=/
 #### Главный принцип по проектироваю Rest API 

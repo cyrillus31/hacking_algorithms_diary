@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "037f149d9244c38e",
@@ -205,6 +206,8 @@
   },
   "active": "c6bd6214164a37d1",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20241019212904.png",
+    "_attachments/Pasted image 20241019212842.png",
     "Pasted image 20241019212339.png.md",
     "System design.md",
     "_attachments/Pasted image 20241019212625.png",
@@ -221,7 +224,6 @@
     "_attachments/Pasted image 20241019130907.png",
     "_attachments/Pasted image 20241019130012.png",
     "_attachments/Pasted image 20241019125900.png",
-    "_attachments/Pasted image 20241019125755.png",
     "algorithms/Problems/Graphs/Surrounded regions.md",
     "algorithms/Problems/Graphs/_attachments",
     "algorithms/Problems/Graphs/Number of islands.md",

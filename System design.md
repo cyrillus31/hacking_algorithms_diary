@@ -237,3 +237,8 @@ CDN - технология, подход, который позволяет на
 	- tracing (когда вы делаете запрос, то по менему вы можете посмотреть, что произошло )
 4. tracing
 5. profiling (Pyroscope)
+
+
+
+# System Design schema
+![[Pasted image 20241019212625.png]]

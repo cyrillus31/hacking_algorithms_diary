@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/Problems/Graphs/Surrounded regions.md",
+                "file": "System design.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/Problems/Graphs/Surrounded regions.md",
+                "file": "System design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/Problems/Graphs/Surrounded regions.md"
+                "file": "System design.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/Problems/Graphs/Surrounded regions.md",
+                "file": "System design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +171,11 @@
   },
   "active": "1adfa0b55ed7781b",
   "lastOpenFiles": [
+    "algorithms/Problems/Graphs/Surrounded regions.md",
     "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085552.png",
     "algorithms/Problems/Graphs/_attachments/Pasted image 20241016085433.png",
     "algorithms/Problems/Graphs/_attachments",
     "algorithms/Problems/Graphs/Number of islands.md",
-    "algorithms/Problems/Graphs/Surrounded regions.md",
     "Heap.md",
     "algorithms/Problems/Graphs",
     "algorithms/Problems/Graphs.md",
@@ -208,7 +208,6 @@
     "_attachments/linkedlist.png",
     "Avito.md",
     "_attachments/Pasted image 20240914135305.png",
-    "_attachments/Pasted image 20241007084022.png",
     "_attachments",
     "tmpl/TEMPLATE_Fails.md",
     "tmpl/TEMPLATE_Solution.md",

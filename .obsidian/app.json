@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./_attachments",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": true
 }

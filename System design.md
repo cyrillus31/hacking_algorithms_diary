@@ -194,3 +194,5 @@ Load Balancer - reverse-proxy
 
 - client - balancer - server - db
 - geodns
+![[Pasted image 20241019132110.png]]
+

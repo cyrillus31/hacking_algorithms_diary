@@ -181,3 +181,10 @@ VPN - proxy
 Load Balancer - reverse-proxy
 
 Как синхронизация базы происходит?
+
+
+## Resharding
+
+![[Pasted image 20241019131520.png]]
+
+

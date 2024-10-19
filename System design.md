@@ -196,3 +196,5 @@ Load Balancer - reverse-proxy
 - geodns
 ![[Pasted image 20241019132110.png]]
 
+### Bottleneck
+SPoF

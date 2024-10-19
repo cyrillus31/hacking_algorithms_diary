@@ -192,3 +192,4 @@ Load Balancer - reverse-proxy
 # Проектирование!
 
 
+- client - balancer - server - db

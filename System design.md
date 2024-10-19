@@ -230,3 +230,6 @@ CDN - технология, подход, который позволяет на
 2. metrics
 	- techincal: CPU, RAM, Disk
 	- business: RPS, DAU, MAU
+3. alerts
+	- healt
+	

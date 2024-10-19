@@ -219,8 +219,8 @@ Blog storage/ object storage (s3) - для хранения объектов, к
 
 CQRS pattern - when we split a system into read and write (when avatar of a user on an external server).
 
-CDN - технология, подход, который позволяет 
-
+CDN - технология, подход, который позволяет нам уменьшить лейтенси для статических данных.
+	POP - points of presence
 
 
 

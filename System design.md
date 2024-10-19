@@ -180,4 +180,4 @@ API gateway вешает trace. Jaeger.
 VPN - proxy
 Load Balancer - reverse-proxy
 
-
+Как синхронизация базы происходит?

@@ -222,6 +222,7 @@ CQRS pattern - when we split a system into read and write (when avatar of a user
 CDN - технология, подход, который позволяет нам уменьшить лейтенси для статических данных.
 	POP - points of presence
 
+### S
 Синхранизация между кластерами через Topic based queue (Kafka).
 
 
@@ -231,5 +232,8 @@ CDN - технология, подход, который позволяет на
 	- techincal: CPU, RAM, Disk
 	- business: RPS, DAU, MAU
 3. alerts
-	- healt
+	- healthcheck
+	- PromQL (если больше 4 400-ок за минуту, то улетает звонок на телефон)
+	- tracing (когда вы делаете запрос, то по менему вы можете посмотреть, что произошло )
+	
 	

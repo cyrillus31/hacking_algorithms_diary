@@ -167,6 +167,7 @@ RPS - 1 : 100 на каждые 100 запросов
 **Service mash**
 API gateway вешает trace. Jaeger.
 
+![[Pasted image 20241019130907.png]]
 
 
 

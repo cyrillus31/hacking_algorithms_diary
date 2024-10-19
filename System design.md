@@ -238,3 +238,4 @@ CDN - технология, подход, который позволяет на
 4. tracing
 5. profiling (Pyroscope)
 
+![[Pasted image 20241019212339.png]]

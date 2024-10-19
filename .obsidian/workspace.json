@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "System design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview"
+              "title": "System design"
             }
           }
         ],
@@ -205,10 +205,11 @@
   },
   "active": "c6bd6214164a37d1",
   "lastOpenFiles": [
-    "Avito.md",
+    "_attachments/Pasted image 20241019212339.png",
     "System design.md",
-    "Linked list.md",
     "Interview.md",
+    "Avito.md",
+    "Linked list.md",
     "Binary search.md",
     "Backtracking.md",
     "_attachments/Pasted image 20241019135725.png",
@@ -220,7 +221,6 @@
     "_attachments/Pasted image 20241019125900.png",
     "_attachments/Pasted image 20241019125755.png",
     "_attachments/Pasted image 20241019125630.png",
-    "_attachments/Pasted image 20241019125200.png",
     "algorithms/Problems/Graphs/Surrounded regions.md",
     "algorithms/Problems/Graphs/_attachments",
     "algorithms/Problems/Graphs/Number of islands.md",

@@ -224,3 +224,7 @@ CDN - технология, подход, который позволяет на
 
 Синхранизация между кластерами через Topic based queue (Kafka).
 
+
+### Observability
+1. logs: fluentbit/fluentD (сгребает логи, процесси и скидывает в elastic search)
+2. 

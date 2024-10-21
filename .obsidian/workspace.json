@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retentions practice.md",
+                "file": "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retentions practice"
+              "title": "Valid Palindrome Solution"
             }
           }
         ]
@@ -176,10 +176,11 @@
   },
   "active": "f03c9abe43302706",
   "lastOpenFiles": [
+    "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",
+    "Retentions practice.md",
     "algorithms/Problems/Hash-table/Isomorphic_strings/My fails.md",
     "System design.md",
     "Backtracking.md",
-    "Retentions practice.md",
     "_attachments/Pasted image 20241019212904.png",
     "_attachments/Pasted image 20241019212842.png",
     "Pasted image 20241019212339.png.md",
@@ -215,7 +216,6 @@
     "To know at the top of your head.md",
     "algorithms/retry-list/retry-list.md",
     "Somnething.md",
-    "Notes.md",
     "_attachments",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",

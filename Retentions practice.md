@@ -6,9 +6,8 @@ Hash-table:
 Arrays && Intervals:
 - [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 
-Sliding window && Two pointers:
-- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-
 ##### ??/??/2024
 
+Sliding window && Two pointers:
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 

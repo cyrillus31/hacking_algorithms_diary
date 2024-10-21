@@ -35,8 +35,7 @@
               "title": "!ATTENTION!"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50a70413c84b3bac",
+  "active": "f03c9abe43302706",
   "lastOpenFiles": [
-    "Retentions practice.md",
+    "_attachments/Pasted image 20241021091413.png",
     "!ATTENTION!.md",
+    "Retentions practice.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Fails.md",
     "algorithms/Problems/Two pointers and windows/Is Valid Palindrome/Valid Palindrome Solution.md",
     "algorithms/Problems/Hash-table/Isomorphic_strings/My fails.md",
@@ -230,7 +230,6 @@
     "Фильтр Блюма.md",
     "Интервалы и точки.md",
     "Впоросы.md",
-    "To know at the top of your head.md",
     "_attachments",
     "algorithms/Problems/Linked list/234 Palindrome Linked List",
     "algorithms/Problems/Binary search/72 Search a 2D matrix",

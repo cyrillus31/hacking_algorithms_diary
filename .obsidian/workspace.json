@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "System design"
             }
+          },
+          {
+            "id": "f03c9abe43302706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retentions practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retentions practice"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,12 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6bd6214164a37d1",
+  "active": "f03c9abe43302706",
   "lastOpenFiles": [
+    "System design.md",
+    "Retentions practice.md",
     "_attachments/Pasted image 20241019212904.png",
     "_attachments/Pasted image 20241019212842.png",
     "Pasted image 20241019212339.png.md",
-    "System design.md",
     "_attachments/Pasted image 20241019212625.png",
     "_attachments/Pasted image 20241019212339.png",
     "Interview.md",
@@ -222,7 +237,6 @@
     "_attachments/Pasted image 20241019131120.png",
     "_attachments/Pasted image 20241019130907.png",
     "_attachments/Pasted image 20241019130012.png",
-    "_attachments/Pasted image 20241019125900.png",
     "algorithms/Problems/Graphs/Surrounded regions.md",
     "algorithms/Problems/Graphs/_attachments",
     "algorithms/Problems/Graphs/Number of islands.md",

@@ -16,7 +16,7 @@ Hash-table:
 
 Arrays && Intervals:
 - [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
-![[Pasted image 20241021091614.png|80]]
+![[Pasted image 20241021091614.png|100]]
 
 Sliding window && Two pointers:
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
